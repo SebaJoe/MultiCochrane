@@ -1,0 +1,361 @@
+[
+    {
+        "simple": [
+            "The term malacia is derived from the Greek word 'malakia', meaning soft.",
+            "In tracheomalacia, the walls of trachea (or windpipe) are softer than normal, which can lead to partial collapse (falling in) of the windpipe.",
+            "This collapse usually happens when more air is needed, such as during exercise.",
+            "The word 'primary' refers to tracheomalacia in which the windpipe itself is the cause of the disease, where as secondary tracheomalacia is compressed due to some other abnormality near to the windpipe.",
+            "The most common symptom of tracheomalacia is expiratory stridor (high-pitched wheezing sound).",
+            "If the symptoms are severe enough, treatment such as mechanical ventilation, tracheal stenting (mesh tube inserted into windpipe to hold it open) or surgery may be needed.",
+            "We wanted to find out which out of these possible treatments was most effective.",
+            "We found only one randomised controlled trial (RCT) that assessed nebulised recombinant human deoxyribonuclease (rhDNase) which helps in breaking down the mucous and has been shown to be useful in aiding airway clearance in cystic fibrosis compared to placebo (no active treatment) in children with both tracheomalacia and a concurrent respiratory infection.",
+            "This trial showed no evidence of benefit in terms of the number of children who were cough-free two weeks after treatment.",
+            "Also, there was less coughing reported, both during the day and at night, in the group who did not receive the intervention - however these differences were not statistically significant.",
+            "With the lack of evidence, the routine use of any therapies for intrinsic tracheomalacia cannot be recommended given the cost of nebulised rhDNase and the likely harmful effect.",
+            "The decision to subject a child to any surgical or medical based therapies will have to be made on an individual basis, with careful consideration of the risk-benefit ratio for each individual situation.",
+            "It is unlikely that any RCT on surgically based management will ever be available for children with severe life-threatening illness associated with tracheomalacia.",
+            "For those with less severe disease, RCTs on interventions such as antibiotics and chest physiotherapy are needed."
+        ],
+        "mass_alignments": {
+            "sentence_alignment_list": [
+                [
+                    [
+                        [
+                            1
+                        ],
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            3,
+                            4,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12,
+                            13,
+                            14,
+                            15,
+                            16,
+                            17,
+                            18,
+                            19,
+                            20,
+                            21,
+                            22,
+                            23
+                        ],
+                        [
+                            4
+                        ]
+                    ],
+                    [
+                        [
+                            22
+                        ],
+                        [
+                            10
+                        ]
+                    ],
+                    [
+                        [
+                            23
+                        ],
+                        [
+                            12
+                        ]
+                    ],
+                    [
+                        [
+                            24
+                        ],
+                        [
+                            13
+                        ]
+                    ]
+                ]
+            ],
+            "paragraph_alignments": "none"
+        },
+        "complex": [
+            {
+                "text": [
+                    "Tracheomalacia, a disorder of the large airways where the trachea is deformed or malformed during respiration, is commonly seen in tertiary paediatric practice.",
+                    "It is associated with a wide spectrum of respiratory symptoms from life-threatening recurrent apnoea to common respiratory symptoms such as chronic cough and wheeze.",
+                    "Current practice following diagnosis of tracheomalacia includes medical approaches aimed at reducing associated symptoms of tracheomalacia, ventilation modalities of continuous positive airway pressure (CPAP) and bi-level positive airway pressure (BiPAP), and surgical approaches aimed at improving the calibre of the airway (airway stenting, aortopexy, tracheopexy)."
+                ],
+                "heading": "Background"
+            },
+            {
+                "text": [
+                    "To evaluate the efficacy of medical and surgical therapies for children with intrinsic (primary) tracheomalacia."
+                ],
+                "heading": "Objectives"
+            },
+            {
+                "text": [
+                    "The Cochrane Airways Group searched the Cochrane Central Register of Controlled Trials (CENTRAL), the Cochrane Airways Group's Specialised Register, MEDLINE and EMBASE databases.",
+                    "The Cochrane Airways Group performed the latest searches in March 2012."
+                ],
+                "heading": "Search methods"
+            },
+            {
+                "text": [
+                    "All randomised controlled trials (RCTs) of therapies related to symptoms associated with primary or intrinsic tracheomalacia."
+                ],
+                "heading": "Selection criteria"
+            },
+            {
+                "text": [
+                    "Two reviewers extracted data from the included study independently and resolved disagreements by consensus."
+                ],
+                "heading": "Data collection and analysis"
+            },
+            {
+                "text": [
+                    "We included one RCT that compared nebulised recombinant human deoxyribonuclease (rhDNase) with placebo in 40 children with airway malacia and a respiratory tract infection.",
+                    "We assessed it to be a RCT with overall low risk of bias.",
+                    "Data analysed in this review showed that there was no significant difference between groups for the primary outcome of proportion cough-free at two weeks (odds ratio (OR) 1.38; 95% confidence interval (CI) 0.37 to 5.14).",
+                    "However, the mean change in night time cough diary scores significantly favoured the placebo group (mean difference (MD) 1.00; 95% CI 0.17 to 1.83, P = 0.02).",
+                    "The mean change in daytime cough diary scores from baseline was also better in the placebo group compared to those on nebulised rhDNase, but the difference between groups was not statistically significant (MD 0.70; 95% CI -0.19 to 1.59).",
+                    "Other outcomes (dyspnoea, and difficulty in expectorating sputum scores, and lung function tests at two weeks also favoured placebo over nebulised rhDNase but did not reach levels of significance."
+                ],
+                "heading": "Main results"
+            },
+            {
+                "text": [
+                    "There is currently an absence of evidence to support any of the therapies currently utilised for management of intrinsic tracheomalacia.",
+                    "It remains inconclusive whether the use of nebulised rhDNase in children with airway malacia and a respiratory tract infection worsens recovery.",
+                    "It is unlikely that any RCT on surgically based management will ever be available for children with severe life-threatening illness associated with tracheomalacia.",
+                    "For those with less severe disease, RCTs on interventions such as antibiotics and chest physiotherapy are clearly needed.",
+                    "Outcomes of these RCTs should include measurements of the trachea and physiological outcomes in addition to clinical outcomes."
+                ],
+                "heading": "Authors' conclusions"
+            }
+        ],
+        "doi": "10.1002/14651858.CD005304.pub3"
+    },
+    {
+        "simple": [
+            "Carpal tunnel syndrome is a condition where one of two main nerves in the wrist is compressed, which can lead to pain in the hand, wrist and sometimes forearm, and numbness and tingling in the thumb, index and long finger.",
+            "In advanced cases some of the muscles of the hand can become weak.",
+            "Carpal tunnel syndrome is more common in women and older age groups.",
+            "Many people undergo surgery to treat this condition, though sometimes other treatments, such as therapeutic ultrasound, are offered.",
+            "Therapeutic ultrasound involves applying a round-headed instrument to the skin of the painful area, to deliver sound waves that are absorbed by the underlying tissues, to help relieve pain and lessen disability.",
+            "We searched for study reports and found 11 randomised controlled trials including 443 participants overall that assessed the safety and benefit of therapeutic ultrasound for people with carpal tunnel syndrome.",
+            "The risk of bias of studies was low in some studies and unclear or high in others.",
+            "There is only poor quality evidence from very limited data to suggest that therapeutic ultrasound may be more effective than placebo for either short- or long-term symptom improvement in people with carpal tunnel syndrome.",
+            "There is insufficient evidence to support the greater benefit of one type of therapeutic ultrasound regimen over another or to support the use of therapeutic ultrasound as a treatment with greater efficacy compared with other non-surgical interventions for carpal tunnel syndrome, such as splinting, exercises, and oral drugs.",
+            "Few studies measured adverse effects to therapeutic ultrasound.",
+            "More research is needed to find out how effective and safe therapeutic ultrasound is for people with carpal tunnel syndrome, particularly in the long term."
+        ],
+        "mass_alignments": {
+            "sentence_alignment_list": [
+                [
+                    [
+                        [
+                            1
+                        ],
+                        [
+                            0
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ],
+                        [
+                            2
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ],
+                        [
+                            5,
+                            6,
+                            8,
+                            9,
+                            10
+                        ]
+                    ]
+                ]
+            ],
+            "paragraph_alignments": "none"
+        },
+        "complex": [
+            {
+                "text": [
+                    "Therapeutic ultrasound may be offered to people experiencing mild to moderate symptoms of carpal tunnel syndrome (CTS).",
+                    "The effectiveness and duration of benefit of this non-surgical intervention remain unclear."
+                ],
+                "heading": "Background"
+            },
+            {
+                "text": [
+                    "To review the effects of therapeutic ultrasound compared with no treatment, placebo or another non-surgical intervention in people with CTS."
+                ],
+                "heading": "Objectives"
+            },
+            {
+                "text": [
+                    "On 27 November 2012, we searched the Cochrane Neuromuscular Disease Group Specialized Register, CENTRAL (2012, Issue 11 in The Cochrane Library), MEDLINE (January 1966 to November 2012), EMBASE (January 1980 to November 2012), CINAHL Plus (January 1937 to November 2012), and AMED (January 1985 to November 2012)."
+                ],
+                "heading": "Search methods"
+            },
+            {
+                "text": [
+                    "Randomised controlled trials (RCTs) comparing any regimen of therapeutic ultrasound with no treatment, a placebo or another non-surgical intervention in people with CTS."
+                ],
+                "heading": "Selection criteria"
+            },
+            {
+                "text": [
+                    "Two review authors independently selected trials for inclusion, extracted data and assessed the risk of bias in the included studies.",
+                    "We calculated risk ratio (RR) and mean difference (MD) with 95% confidence intervals (CIs) for primary and secondary outcomes.",
+                    "We pooled results of clinically homogenous trials in a meta-analysis using a random-effects model, where possible, to provide estimates of the effect."
+                ],
+                "heading": "Data collection and analysis"
+            },
+            {
+                "text": [
+                    "We included 11 studies including 414 participants in the review.",
+                    "Two trials compared therapeutic ultrasound with placebo, two compared one ultrasound regimen with another, two compared ultrasound with another non-surgical intervention, and six compared ultrasound as part of a multi-component intervention with another non-surgical intervention (for example, exercises and splint).",
+                    "The risk of bias was low in some studies and unclear or high in other studies, with only two reporting that the allocation sequence was concealed and six reporting that participants were blinded.",
+                    "Overall, there is insufficient evidence that one therapeutic ultrasound regimen is more efficacious than another.",
+                    "Only two studies reported the primary outcome of interest, short-term overall improvement (any measure in which patients indicate the intensity of their complaints compared with baseline, for example, global rating of improvement, satisfaction with treatment, within three months post-treatment).",
+                    "One low quality trial with 68 participants found that when compared with placebo, therapeutic ultrasound may increase the chance of experiencing short-term overall improvement at the end of seven weeks treatment (RR 2.36; 95% CI 1.40 to 3.98), although losses to follow-up and failure to adjust for the correlation between wrists in participants with bilateral CTS in this study suggest that this data should be interpreted with caution.",
+                    "Another low quality trial with 60 participants found that at three months post-treatment therapeutic ultrasound plus splint increased the chance of short-term overall improvement (patient satisfaction) when compared with splint alone (RR 3.02; 95% CI 1.36 to 6.72), but decreased the chance of short-term overall improvement when compared with low-level laser therapy plus splint (RR 0.87; 95% CI 0.57 to 1.33), though participants were not blinded to treatment, it was unclear if the random allocation sequence was adequately concealed, and there was a potential unit of analysis error.",
+                    "Differences between groups receiving different frequencies and intensities of ultrasound, and between ultrasound as part of a multi-component intervention versus other non-surgical interventions, were generally small and not statistically significant for symptoms, function, and neurophysiologic parameters.",
+                    "No studies reported any adverse effects of therapeutic ultrasound, but this outcome was only measured in three studies.",
+                    "More adverse effects data are required before any firm conclusions on the safety of therapeutic ultrasound can be made."
+                ],
+                "heading": "Main results"
+            },
+            {
+                "text": [
+                    "There is only poor quality evidence from very limited data to suggest that therapeutic ultrasound may be more effective than placebo for either short- or long-term symptom improvement in people with CTS.",
+                    "There is insufficient evidence to support the greater benefit of one type of therapeutic ultrasound regimen over another or to support the use of therapeutic ultrasound as a treatment with greater efficacy compared to other non-surgical interventions for CTS, such as splinting, exercises, and oral drugs.",
+                    "More methodologically rigorous studies are needed to determine the effectiveness and safety of therapeutic ultrasound for CTS."
+                ],
+                "heading": "Authors' conclusions"
+            }
+        ],
+        "doi": "10.1002/14651858.CD009601.pub2"
+    },
+    {
+        "simple": [
+            "In standard insemination protocols for IVF, oocytes are exposed to sperm for 15 to 20 hours.",
+            "Such long term co-incubation with sperm may expose oocytes and zygotes to suboptimal culture medium due to increased levels of reactive oxygen species (ROS) produced by sperm and other products of metabolism.",
+            "Shortening the co-incubation time of oocytes and sperm may possibly improve IVF outcomes by reducing the detrimental effect of ROS on the zygotes and the quality of the embryos.",
+            "The brief co-incubation method used in IVF reduces the co-incubation time of oocytes and sperm to one to four hours.",
+            "This review identified eight randomized controlled trials involving 733 women.",
+            "Low quality evidence showed increases in ongoing pregnancy and clinical pregnancy rates with the use of the brief co-incubation protocol.",
+            "More studies are needed to assess whether brief co-incubation would contribute to a higher live-birth rate and a lower miscarriage rate compared to the standard overnight insemination protocol."
+        ],
+        "mass_alignments": {
+            "sentence_alignment_list": [
+                [
+                    [
+                        [
+                            3
+                        ],
+                        [
+                            0,
+                            1,
+                            3,
+                            4
+                        ]
+                    ],
+                    [
+                        [
+                            4,
+                            5,
+                            7,
+                            8
+                        ],
+                        [
+                            3
+                        ]
+                    ],
+                    [
+                        [
+                            7
+                        ],
+                        [
+                            5,
+                            6
+                        ]
+                    ]
+                ]
+            ],
+            "paragraph_alignments": "none"
+        },
+        "complex": [
+            {
+                "text": [
+                    "The in vitro fertilization (IVF) technique is commonly used and is the only treatment option for a proportion of infertile couples.",
+                    "To obtain better outcomes of IVF, it is important to enhance embryo quality by optimizing IVF techniques.",
+                    "In IVF procedures, oocytes and sperm are routinely co-incubated overnight, which may expose oocytes and zygotes to suboptimal culture conditions with increased reactive oxygen species (ROS) produced by sperm in this long term culture.",
+                    "As an attempt to avoid possible detrimental effects on the oocytes from long exposure to sperm, the brief co-incubation insemination protocol was developed.",
+                    "However, despite a number of studies in this area, it is unclear whether brief co-incubation improves the IVF outcomes compared with the standard overnight insemination protocol."
+                ],
+                "heading": "Background"
+            },
+            {
+                "text": [
+                    "This Cochrane review aimed to determine whether brief co-incubation of sperm and oocytes improves outcomes compared with the standard overnight insemination protocol for women undergoing IVF."
+                ],
+                "heading": "Objectives"
+            },
+            {
+                "text": [
+                    "We searched the Cochrane Menstrual Disorders and Subfertility Group Register (14 June 2012), Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2012, 1st quarter), MEDLINE (1948 to 14 June 2012), EMBASE (1989 to 14 June 2012), PsycINFO (1806 to 14 June 2012) and CINAHL (1980 to 26 July 2012).",
+                    "In addition, we searched trials registers, reference lists of articles, conference proceedings (American Society for Reproductive Medicine (ASRM), European Society of Human Reproduction and Embryology (ESHRE)) and contacted experts in the field."
+                ],
+                "heading": "Search methods"
+            },
+            {
+                "text": [
+                    "We included randomized controlled trials (RCTs) comparing brief co-incubation of gametes with the standard overnight insemination protocol."
+                ],
+                "heading": "Selection criteria"
+            },
+            {
+                "text": [
+                    "Two review authors independently assessed studies for inclusion and trial quality, and extracted data.",
+                    "Disagreements were resolved by discussion with a third author.",
+                    "Statistical analysis was performed using RevMan software."
+                ],
+                "heading": "Data collection and analysis"
+            },
+            {
+                "text": [
+                    "Eight RCTs with 733 women in total that compared brief co-incubation and the standard insemination protocol were included.",
+                    "Live birth was not reported in the included studies.",
+                    "For ongoing pregnancy rate, there were 127 ongoing pregnancies in two trials including 426 women.",
+                    "The low quality evidence showed that brief co-incubation was associated with an increased ongoing pregnancy rate compared to the standard insemination protocol (pooled odds ratio (OR) 2.42, 95% confidence interval (CI) 1.55 to 3.77; P < 0.0001, I2 = 0%).",
+                    "Measuring clinical pregnancy rate, there were 93 clinical pregnancies in three trials including 372 women.",
+                    "The low quality evidence\u00a0showed that brief co-incubation was associated with a significantly higher clinical pregnancy rate than the overnight insemination protocol (pooled OR 2.36, 95% CI 1.45 to 3.85; P = 0.0006, I2 = 0%).",
+                    "For the miscarriage rate, there were six miscarriages in one trial including 167 women.",
+                    "This low quality evidence suggested no significant difference in the odds of miscarriage between brief co-incubation and standard insemination (OR 1.98, 95% CI 0.35 to 11.09; P = 0.44)."
+                ],
+                "heading": "Main results"
+            },
+            {
+                "text": [
+                    "This review has provided evidence that brief co-incubation of sperm and oocytes may improve the ongoing pregnancy and clinical pregnancy rates for infertile women undergoing IVF cycles.",
+                    "More RCTs are required to assess whether brief co-incubation would contribute to a higher live birth rate and a lower miscarriage rate compared to the standard overnight insemination protocol."
+                ],
+                "heading": "Authors' conclusions"
+            }
+        ],
+        "doi": "10.1002/14651858.CD009391.pub2"
+    }
+]

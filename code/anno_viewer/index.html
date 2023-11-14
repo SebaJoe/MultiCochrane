@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Annotation Tool</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="nofollow" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"> 
+</head>
+
+<body>
+  <div id="overlay">
+    
+    <div id="tutorial-box">
+      <div id="tutorial-slides" class="carousel slide" data-ride="carousel" data-interval="false">
+        <ol class="carousel-indicators">
+          <li data-target="#tutorial-slides" data-slide-to="0" class="active"></li>
+          <li data-target="#tutorial-slides" data-slide-to="1"></li>
+          <li data-target="#tutorial-slides" data-slide-to="2"></li>
+          <li data-target="#tutorial-slides" data-slide-to="3"></li>
+          <li data-target="#tutorial-slides" data-slide-to="4"></li>
+        </ol>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div class="c-cell">
+              <h1>Welcome to the Sentence Alignment Tool!</h1>
+              <br>
+              <p>
+                This is a short tutorial that will explain the functionality and features of this tool.
+              </p>
+              <p>
+                This tutorial will cover 4 sections:
+                <ul>
+                  <li>Header Buttons</li>
+                  <li>Making Alignments</li>
+                  <li>Sentence Sorting</li>
+                  <li>Downloading</li>
+                </ul>
+              </p>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="c-cell">
+              <h1>Header Buttons</h1>
+              <p>
+                There are a few important buttons located at the top of the tool. 
+              </p>
+              <p>
+                First, there is the <b>upload file button</b> located on the top left. Clicking on this button will allow you to upload your desired alignment file from your computer.
+              </p>
+              <p>
+                Next, the <b>choose article select bar</b> and the <b>arrow buttons</b> beside the article name is used for navigating to different articles.
+              </p>
+              <p>
+                Finally, the <b>download button</b> on the top right is used for downloading the present state of annotations and alignments. More detail can be found later in the download section of this tutorial.
+              </p>
+              <img src="header-buttons.png" width="80%" class="center-image"></img>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="c-cell">
+              <h1>Making Alignments</h1>
+              <p>
+                To make an alignment, click on a sentence in the left hand side and then click on the corresponding sentence on the right hand side. Fill out the annotations and click save. Use the shift key to select multiple sentences on either side. The <b>swap button</b> located in the center switches the documents.
+              </p>
+              <img src="alignment.gif" width="80%" class="center-image"></img>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="c-cell">
+              <h1>Sentence Sorting</h1>
+              <p>
+                This tool supports the unique feature of sentence sorting. Using the similarity scores stored in the provided alignment file, the tool has the ability to sort right-hand sentences from most similar to least similar to the left-hand sentence. 
+              </p>
+              <p>
+                The <b>sorted checkbox</b> indicates whether the tool will sort the sentences or display them in the original order with rankings on the side. By default, the tool will sort sentences.
+              </p>
+              <p>
+                This feature is useful for annotating or checking if you made the correct annotation.
+              </p>
+              <img src="sorting.png" width="70%" class="center-image"></img>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="c-cell">
+              <h1>Downloading</h1>
+              <p>
+                When you are done annotating download the current state of your annotations and alignments by clicking on the <b>download button</b>. An alignment file will be downloaded onto you computer with a filename indicating the current date and time.
+              </p>
+              <p>
+                If you close the window without downloading, <b>you will lose your annotations and alignments forever</b>. Always remember to download.
+              </p>
+              <img src="download.png" width="20%" class="center-image"></img>
+            </div>
+          </div>
+        </div>
+        <a class="carousel-control-prev" href="#tutorial-slides" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#tutorial-slides" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      </div>
+    </div>
+    
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col center_row">
+          <h1 id="title">
+            Alignment Viewer
+            <input type="image" src="question.png" id="tutorial-button">
+          </h1>
+      </div>
+    </div>
+    <div class="row second-row">
+      <div class="col center_row">
+        <label for="myfile">Upload File: </label>
+        <input type="file" id="myfile" name="myfile">
+      </div>
+      <div class="col center_row">
+          <label for="article_list">Choose Article</label>
+          <select name="article_list" id="article_list">
+    
+          </select>
+      </div>
+      <div class="col-2 center_row">
+        <button type="button" class="btn btn-success" id="download-btn">Download</button>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col center_row">
+        <div class="art-button" id='left-article'>
+          <i class="arrow left"></i>
+        </div>
+      </div>
+      <div class="col center_row">
+        <h2 id="article_name">Article Name</h2>
+      </div>
+      <div class="col center_row">
+        <div class="art-button" id='right-article'>
+          <i class="arrow right"></i>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col center_row" id="anno-bar-con">
+        <div id="anno-bar">
+          <label for="ins" data-hover="On a scale of 0-2 annotate how much new information is added to the simplifying sentence." class="anno-label">Insertion: </label>
+          <input type="number" id="ins" class="anno-input" name="ins">
+          <label for="del" data-hover="On a scale of 0-2 annotate how much information is deleted from the complex sentence in the simple sentence." class="anno-label"> Deletion: </label>
+          <input type="number" id="del" class="anno-input" name="del"> 
+          <label for="sub" data-hover="On a scale of 0-2 annotate how much information is being substituted for something else from the complex sentence to the simple sentence." class="anno-label"> Substitution: </label>
+          <input type="number" id="sub" class="anno-input" name="sub"> 
+          <label for="elab" data-hover="On a scale of 0-2 annotate how much information is being added by explaining (elaborating) something in the complex sentence in the simple sentence." class="anno-label"> Elaboration: </label>
+          <input type="number" id="elab" class="anno-input" name="elab"> 
+          <!--<label for="context" data-hover="On a scale of 0-2 annotate how much additional context will be needed for complex-simple sentence alignment to be complete." class="anno-label">Context Rating: </label>
+          <input type="number" id="context" class="anno-input" name="context">
+          <label for="con-ids" data-hover="If the context rating is non-zero, list the sentence indices of the complex sentences needed for additional context." class="anno-label">Context IDs: </label>
+          <input id="con-ids" class="anno-input" name="con-ids">-->
+          <button type="button" class="btn btn-primary btn-sm bar-button" id="save-button">Save</button>
+          <input type="image" id="switch-button" src="swap.png">
+        </div>
+      </div>
+    </div>
+    <div class="row" id="split-row">
+      <div class="col pre-scrollable" id="left-side" style="max-height: 75vh;">
+        <div class="row">
+          <div class="col" style="text-align:center; margin-top: 10px;">
+            <h3 id="left-tag">Complex</h3>
+          </div>
+        </div>
+        <div class="container" id="left-toadd">
+          <div class="row">
+            <div class="col"><br><br></div>
+          </div>
+          <div class="row text-row left-row">
+            <div class="col line"></div>
+            <div class="col left-lnum col-sm-1">0</div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col pre-scrollable" id="right-side" style="max-height: 75vh;">
+        <div class="row">
+          <div class="col" style="text-align:center; margin-top: 10px;">
+            <h3 id="right-tag">Simple</h3>
+          </div>
+        </div>
+        <div class="container" id="right-toadd">
+          <div class="row">
+            <div class="col">
+              <ul class="nav nav-pills" id="tab-con">
+                <li class="nav-item" id="original">
+                  <a class="nav-link active" aria-current="page">Original</a>
+                </li>
+                <!--<li class="nav-item" id="SB">
+                  <a class="nav-link">SB</a>
+                </li>
+                <li class="nav-item" id="jac">
+                  <a class="nav-link">Jaccard</a>
+                </li>
+                <li class="nav-item" id="tf">
+                  <a class="nav-link">TF-IDF</a>
+                </li>-->
+              </ul>
+            </div>
+            <div class="col-3">
+              <div id="sort-box">
+                <input type="checkbox" id='sort-check' checked>
+                <label for="sort-check">Sorted</label>
+              </div>
+            </div>
+          </div>
+          <div class="row text-row right-row">
+            <div class="col right-lnum col-sm-1">0</div>
+            <div class="col line"></div>
+          </div>
+          <!--<div class="row text-row right-row">
+            <div class="col right-lnum col-sm-1">1</div>
+            <div class="col line"></div>
+            <div class="col rank col-sm-1">0</div>
+          </div>-->
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <script src="script.js"></script>
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+  <script type="text/javascript">
+    window.addEventListener('beforeunload', function (e) {
+      e.preventDefault();
+      e.returnValue = '';
+    });
+  </script>
+
+</body>
+
+</html>
