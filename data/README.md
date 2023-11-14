@@ -1,5 +1,15 @@
-# MultiCochrane Data
+# MultiCochrane Data and Outputs
 
-### multiCochrane_all.zip
+### MultiCochrane
 
-This dataset contains the complete filtered and unfiltered dataset that was used for training, validating, and evaluating models in the paper. It contains the filtered and unfiltered datasets for English, Spanish, French, and Farsi data.
+This folder contains MultiCochrane and other collected data.
+
+### sys_outputs
+
+This folder contains all the system outputs for all the systems we evaluated.
+
+### eval_data
+
+This folder contains all the human evaluations for all the system we evaluated.
+
+

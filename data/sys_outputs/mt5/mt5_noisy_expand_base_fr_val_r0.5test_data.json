@@ -1,0 +1,1286 @@
+[
+    {
+        "input": "Our results suggest, but do not confirm, that a possible advantage of ultrasound guidance for the first attempt success rate over other techniques is more pronounced in infants and small children than in older children.",
+        "output": "Nos r\u00e9sultats sugg\u00e8rent que les effets de la recommandation de l'\u00e9chographie pour la premi\u00e8re \u00e9tape de l'atteindre des \u00e9preuves \u00e9taient sup\u00e9rieurs chez les nourrissons et les enfants plus \u00e2g\u00e9s que chez les jeunes enfants.",
+        "gold": "Nos donn\u00e9es probantes sugg\u00e8rent que l'\u00e9chographie est sup\u00e9rieure aux autres techniques d'insertion de cath\u00e9ters art\u00e9riels, en particulier chez les nourrissons et les jeunes enfants.",
+        "prefix": ""
+    },
+    {
+        "input": "Laparoscopic box model training appears to improve technical skills compared with no training in trainees with no previous laparoscopic experience.",
+        "output": "Les futures \u00e9tudes comparant le mod\u00e8le laparoscopique \u00e0 un ballonnet a montr\u00e9 que les meilleures comp\u00e9tences \u00e9taient efficaces, par rapport \u00e0 l'absence d'entra\u00eenement.",
+        "gold": "Ceci sugg\u00e8re que la formation utilisant des mod\u00e8les en boite am\u00e9liore les comp\u00e9tences techniques de stagiaires en chirurgie sans exp\u00e9rience de la chirurgie laparoscopique.",
+        "prefix": ""
+    },
+    {
+        "input": "Duration and style of tai chi differed between trials.",
+        "output": "L'ex\u00e9cution du Tai Chi variait entre les essais.",
+        "gold": "Il y avait des variations dans la dur\u00e9e et le mode de tai-chi, et le suivi des interventions allait de 3 \u00e0 12 mois.",
+        "prefix": ""
+    },
+    {
+        "input": "There was some suggestion of beneficial effects of tai chi on CVD risk factors but this was not consistent across all studies.",
+        "output": "Les effets b\u00e9n\u00e9fiques des yeux sur les facteurs de risque de la MCV sont associ\u00e9s \u00e0 des preuves de haute qualit\u00e9.",
+        "gold": "En raison du petit nombre d'\u00e9tudes \u00e0 court terme et de la variabilit\u00e9 entre elles, nous ne sommes pas parvenus \u00e0 d\u00e9terminer de fa\u00e7on concluante si oui ou non le tai-chi \u00e9tait b\u00e9n\u00e9fique pour r\u00e9duire le risque cardio-vasculaire chez les adultes en bonne sant\u00e9 et chez les adultes pr\u00e9sentant un risque accru de MCV, bien que des effets b\u00e9n\u00e9fiques pour les facteurs de risque cardio-vasculaire ont \u00e9t\u00e9 observ\u00e9s dans certaines \u00e9tudes.",
+        "prefix": ""
+    },
+    {
+        "input": "To determine the effectiveness of tai chi for the primary prevention of CVD.",
+        "output": "Cette revue a examin\u00e9 les effets de la tai chi pour la pr\u00e9vention primaire du cancer du CVC.",
+        "gold": "Cette revue a \u00e9valu\u00e9 l'efficacit\u00e9 du tai-chi chez les adultes en bonne sant\u00e9 et ceux pr\u00e9sentant un risque \u00e9lev\u00e9 de MCV pour r\u00e9duire les d\u00e9c\u00e8s cardio-vasculaires, la mortalit\u00e9 toutes causes confondues, les param\u00e8tres non mortels (tels que les crises cardiaques, les AVC et les angines de poitrine) et les facteurs de risque cardio-vasculaire. Les caract\u00e9ristiques de l'\u00e9tude",
+        "prefix": ""
+    },
+    {
+        "input": "High-quality randomised controlled trials on well-defined participants with long-term outcomes to determine the duration of response are needed.",
+        "output": "Bien que d'autres essais contr\u00f4l\u00e9s randomis\u00e9s, avec des participants de longue dur\u00e9e \u00e0 \u00e9valuer la dur\u00e9e du r\u00e9ponse, tels que la reprise d'un conseil.",
+        "gold": "Des \u00e9tudes de bonne qualit\u00e9 comparant les traitements de cette affection difficile \u00e0 prendre en charge sont n\u00e9cessaires.",
+        "prefix": ""
+    },
+    {
+        "input": "We did not find any completed randomised trials.",
+        "output": "Nous n'avons pas trouv\u00e9 d'essais contr\u00f4l\u00e9s randomis\u00e9s.",
+        "gold": "Nous n'avons trouv\u00e9 aucun essai randomis\u00e9 termin\u00e9 \u00e9tudiant ces m\u00e9dicaments chez les personnes souffrant de dissection de l'art\u00e8re carotide.",
+        "prefix": ""
+    },
+    {
+        "input": "The rates were 24.5 for the sponge and 10.9 for the diaphragm in the UK trial.",
+        "output": "Les taux \u00e9taient \u00e9taient 25 pour le tube de sponge et 10,9 pour le diaphragme au Royaume-Uni.",
+        "gold": "Sur 100 femmes utilisant l'\u00e9ponge pendant un an, 25 sont devenues enceintes, contre 11 utilisatrices de diaphragme.",
+        "prefix": ""
+    },
+    {
+        "input": "All but one trial were at high risk of bias.",
+        "output": "Les autres essais ont un risque de biais.",
+        "gold": "Qualit\u00e9 des preuves Tous, sauf un des essais, pr\u00e9sentaient un risque de biais \u00e9lev\u00e9 (d\u00e9fauts dans le plan d'\u00e9tude qui peut conduire \u00e0 des conclusions erron\u00e9es avec une surestimation des effets b\u00e9n\u00e9fiques et une sous-estimation des effets nocifs).",
+        "prefix": ""
+    },
+    {
+        "input": "To assess interventions used in the management of all types of melasma: epidermal, dermal, and mixed.",
+        "output": "Nous avons examin\u00e9 les \u00e9tudes portant sur les diff\u00e9rents types de mielmes: : epidermal, dermal, et mixte.",
+        "gold": "Enfin, le m\u00e9lasma mixte est une association du m\u00e9lasma \u00e9pidermique et dermique.",
+        "prefix": ""
+    },
+    {
+        "input": "We included seven trials, involving 735 participants, in this review.",
+        "output": "Nous n'avons trouv\u00e9 aucun essai, avec un total de 535 participants.",
+        "gold": "Cette revue comprenait sept \u00e9tudes (sp\u00e9cifiquement des essais contr\u00f4l\u00e9s randomis\u00e9s), impliquant 735 personnes.",
+        "prefix": ""
+    },
+    {
+        "input": "Surgeons and their assistants are especially at risk of exposure to blood due to glove perforations and needle stick injuries during operations.",
+        "output": "Les infirmiers et leurs assistants pr\u00e9sentent souvent un risque de risque d'exposition \u00e0 l'h\u00e9parine, en particulier concernant des perforations et des l\u00e9sions d'aiguille et des l\u00e9sions de cartisage pendant leur op\u00e9ration.",
+        "gold": "Cela peut conduire \u00e0 l'infection par le VIH ou par d'autres virus \u00e0 diffusion h\u00e9matog\u00e8ne.",
+        "prefix": ""
+    },
+    {
+        "input": "More RCTs are required to assess whether brief co-incubation would contribute to a higher live birth rate and a lower miscarriage rate compared to the standard overnight insemination protocol.",
+        "output": "De nouveaux essais contr\u00f4l\u00e9s randomis\u00e9s sont n\u00e9cessaires afin d'\u00e9valuer si l'innocuit\u00e9 du co-incubation pourrait entra\u00eener un taux plus \u00e9lev\u00e9 de naissances vivantes et une faible taux de fausse couche.",
+        "gold": "Des \u00e9tudes suppl\u00e9mentaires sont n\u00e9cessaires pour d\u00e9terminer si la co-incubation br\u00e8ve pourrait contribuer \u00e0 un taux plus \u00e9lev\u00e9 de naissances vivantes et \u00e0 un taux plus faible de fausses couches, en comparaison avec le protocole standard d'ins\u00e9mination durant toute la nuit.",
+        "prefix": ""
+    },
+    {
+        "input": "Laparoscopic box model training appears to improve technical skills compared with no training in trainees with no previous laparoscopic experience.",
+        "output": "L'entra\u00eenement laparoscopique semble am\u00e9liorer les formations pour les apprentissages de l'apprentissage comparativement \u00e0 l'absence d'entra\u00eenement.",
+        "gold": "La formation utilisant des mod\u00e8les en boite semble diminuer le temps n\u00e9cessaire \u00e0 r\u00e9aliser une t\u00e2che laparoscopique, am\u00e9liorer l'exactitude, r\u00e9duire les erreurs et am\u00e9liorer la performance globale.",
+        "prefix": ""
+    },
+    {
+        "input": "Nine trials measured blood pressure, six individual trials found reductions in SBP (reductions ranged from -22.0 mmHg (95% confidence interval (CI) -26.3 to -17.7) to -11.5 mmHg (95% CI -21.5 to -1.46)), two trials found no clear evidence of a difference (however, CIs were wide and an increase or decrease in SBP cannot be ruled out), and one trial found an increase in SBP with tai chi (increase 5.2 mmHg, 95% CI 3.73 to 6.67).",
+        "output": "Des \u00e9tudes ont \u00e9t\u00e9 incluses en cours et il n'y avait pas de preuve clairement claire de la diff\u00e9rence dans la pression art\u00e9rielle de la bouche et des acouph\u00e8nes du BPCO par rapport \u00e0 l'absence de diff\u00e9rence dans les IC, mais deux essais ont montr\u00e9 des r\u00e9ductions du BPCO entre l'estomac et les pieds, l'estomac, le c\u0153ur ou les personnes atteintes de SBP.",
+        "gold": "En raison du petit nombre d'\u00e9tudes \u00e0 court terme et de la variabilit\u00e9 entre elles, nous ne sommes pas parvenus \u00e0 d\u00e9terminer de fa\u00e7on concluante si oui ou non le tai-chi \u00e9tait b\u00e9n\u00e9fique pour r\u00e9duire le risque cardio-vasculaire chez les adultes en bonne sant\u00e9 et chez les adultes pr\u00e9sentant un risque accru de MCV, bien que des effets b\u00e9n\u00e9fiques pour les facteurs de risque cardio-vasculaire ont \u00e9t\u00e9 observ\u00e9s dans certaines \u00e9tudes.",
+        "prefix": ""
+    },
+    {
+        "input": "Statins had uncertain effects on progression of CKD.",
+        "output": "La progression des statines ont eu peu d'effets consid\u00e9rables sur la progression du CSI.",
+        "gold": "Bien que l'utilisation des statines n'ait pas r\u00e9duit clairement les risques de progression de l'insuffisance r\u00e9nale, elles peuvent \u00eatre recommand\u00e9es pour r\u00e9duire les risques de d\u00e9c\u00e8s et d'\u00e9v\u00e9nements cardiaques chez les personnes qui sont aux premiers stades de l'insuffisance r\u00e9nale.",
+        "prefix": ""
+    },
+    {
+        "input": "Available treatments for melasma are unsatisfactory.",
+        "output": "Les trois traitements contre la m\u00e9lanome sur les semelles \u00e9taient de qualit\u00e9 faible.",
+        "gold": "Le m\u00e9lasma \u00e9pidermique est le plus superficiel et se caract\u00e9rise par une augmentation de la pigmentation cutan\u00e9e (m\u00e9lanine) dans la couche sup\u00e9rieure de la peau (\u00e9piderme).",
+        "prefix": ""
+    },
+    {
+        "input": "Randomised controlled trials that evaluated topical and systemic interventions for melasma.",
+        "output": "Les essais contr\u00f4l\u00e9s randomis\u00e9s portant sur des interventions topiques et syst\u00e9miques ont \u00e9t\u00e9 inclus dans notre revue.",
+        "gold": "Les informations actuellement disponibles sont insuffisantes pour d\u00e9terminer le meilleur traitement contre le m\u00e9lasma.",
+        "prefix": ""
+    },
+    {
+        "input": "Methodologically rigorous trials are needed to investigate interventions aimed at preventing the uptake of tobacco use amongst Indigenous youth and to assist in bridging the gap between tobacco-related health disparities in Indigenous and non-Indigenous populations.",
+        "output": "Les essais de ces types sont n\u00e9cessaires pour \u00e9valuer si la consommation de tabac peut \u00eatre r\u00e9alis\u00e9e.",
+        "gold": "Cette \u00e9tude a constat\u00e9 qu'il n'y a pas assez de recherche publi\u00e9e sur l'\u00e9valuation de programmes visant \u00e0 dissuader les jeunes autochtones de commencer \u00e0 consommer du tabac.",
+        "prefix": ""
+    },
+    {
+        "input": "Statin-related effects on stroke and kidney function were found to be uncertain and adverse effects of treatment are incompletely understood.",
+        "output": "Le taux de mortalit\u00e9 du traitement est tr\u00e8s faible \u00e0 tr\u00e8s faible.",
+        "gold": "Cependant, les effets secondaires potentiels sont incertains et doivent \u00eatre davantage \u00e9tudi\u00e9s.",
+        "prefix": ""
+    },
+    {
+        "input": "Indigenous youth in particular commence smoking at an early age, and a disproportionate burden of substance-related morbidity and mortality exists as a result.",
+        "output": "Toutes les jeunes en langue en g\u00e9n\u00e9ral commencent \u00e0 fumer avant un accouchement, avec un b\u00e9n\u00e9fice suppl\u00e9mentaire, et une morbidit\u00e9 et une mortalit\u00e9 li\u00e9e \u00e0 la substance se produit.",
+        "gold": "Les pr\u00e9judices \u00e0 la sant\u00e9 qui y sont associ\u00e9s sont inacceptables.",
+        "prefix": ""
+    },
+    {
+        "input": "We included all randomised clinical trials comparing box model trainers versus no training in surgical trainees with no prior laparoscopic experience.",
+        "output": "Nous avons inclus tous les essais comparant les mod\u00e8les appareils de boite par rapport \u00e0 l'absence de formation dans les appareils de boite.",
+        "gold": "Nous avons cherch\u00e9 \u00e0 d\u00e9terminer si la formation utilisant des mod\u00e8les en boite est utile chez ces stagiaires en termes d'am\u00e9lioration des r\u00e9sultats techniques par une recherche exhaustive de la litt\u00e9rature m\u00e9dicale pour trouver des essais cliniques randomis\u00e9s.",
+        "prefix": ""
+    },
+    {
+        "input": "Triple-combination cream was significantly more effective at lightening melasma than hydroquinone alone (RR 1.58, 95% CI 1.26 to 1.97) or when compared to the dual combinations of tretinoin and hydroquinone (RR 2.75, 95% CI 1.59 to 4.74), tretinoin and fluocinolone acetonide (RR 14.00, 95% CI 4.43 to 44.25), or hydroquinone and fluocinolone acetonide (RR 10.50, 95% CI 3.85 to 28.60).",
+        "output": "La scl\u00e9rose en st\u00e9rone et la ph\u00e9nyto\u00efne seul, l'hydroquinone et la fluocinone \u00e0 l'aide d'une r\u00e9adaptation du m\u00e9lanome que l'hydroquinone seule ou l'hydroquinone en seul.",
+        "gold": "La cr\u00e8me associant 3 produits \u00e9tait significativement plus efficace pour l\u2019'\u00e9claircissement du m\u00e9lasma, comparativement \u00e0 l'hydroquinone seule ou des cr\u00e8mes associant deux produits comme la tr\u00e9tino\u00efne et l'hydroquinone, la tr\u00e9tino\u00efne et l'ac\u00e9tonide de fluocinolone ou encore l'hydroquinone et l'ac\u00e9tonide de fluocinolone.",
+        "prefix": ""
+    },
+    {
+        "input": "We searched until January 2016.",
+        "output": "Nous avons recherch\u00e9 des essais jusqu'en janvier 2016.",
+        "gold": "Les donn\u00e9es probantes sont \u00e0 jour jusqu'en janvier 2016.",
+        "prefix": ""
+    },
+    {
+        "input": "Remote ischaemic conditioning (RIC) has been developed as a neuroprotective strategy to prevent and treat ischaemic stroke.",
+        "output": "Cette revue a \u00e9t\u00e9 con\u00e7ue comme une strat\u00e9gie non pr\u00e9protecteur contre le risque de AVC isch\u00e9mique.",
+        "gold": "Le conditionnement isch\u00e9mique \u00e0 distance (CID) est une strat\u00e9gie visant \u00e0 prot\u00e9ger et \u00e0 pr\u00e9venir les l\u00e9sions des tissus c\u00e9r\u00e9braux en am\u00e9liorant leur capacit\u00e9 \u00e0 tol\u00e9rer un d\u00e9bit sanguin r\u00e9duit.",
+        "prefix": ""
+    },
+    {
+        "input": "Statins consistently lower death and major cardiovascular events by 20% in people with CKD not requiring dialysis.",
+        "output": "L'observance de statines avec un nombre comparable \u00e9tait plus faible en raison de l\u00e9sions cardiovasculaires par 20 % chez les personnes atteintes de BPCO exigeant une dialyse.",
+        "gold": "Le traitement par statines s'est \u00e9galement av\u00e9r\u00e9 efficace dans la r\u00e9duction des maladies et des d\u00e9c\u00e8s cardiaques chez les personnes atteintes d'IRC sans maladie cardiaque.",
+        "prefix": ""
+    },
+    {
+        "input": "There was no significant difference in the time taken to complete the task in the remaining three comparisons (reverse alignment versus forward alignment box training; box trainer suturing versus box trainer drills; and single incision versus multiport box model training).",
+        "output": "Aucune diff\u00e9rence significative dans le temps n\u00e9cessaire \u00e0 compl\u00e9ter le t\u00e2cher dans les autres comparaisons n'\u00e9tait observ\u00e9e dans les trois comparaisons (l'entra\u00eenement de boite par rapport au entra\u00eenement du boite par rapport \u00e0 la formation de boite par rapport au maintien du boxe en boite ; le suturateur d'un boxe par rapport \u00e0 la formation du boxe et le remplacement du bras) ou \u00e0 l'entra\u00eenement du boite \u00e0 boite (en boite \u00e0 l'essai).",
+        "gold": "Il ne semble pas y avoir de diff\u00e9rences significatives dans les diff\u00e9rentes m\u00e9thodes de formation utilisant des mod\u00e8les en boite.",
+        "prefix": ""
+    },
+    {
+        "input": "We located 10 RCTs involving 2961 participating surgeons performing an operation in which the use of blunt needles was compared to the use of sharp needles.",
+        "output": "Les r\u00e9sultats rapportaient 11 \u00e9tudes impliquant 2961 personnes recevant une op\u00e9ration chirurgicale en particulier comparant des n\u00e9bulisations br\u00fblantes \u00e0 l'utilisation de n\u00e9bulis\u00e9s de lunettes \u00e0 haute valeur (dont la utilisation de n\u00e9bul\u00e9es a \u00e9t\u00e9 compar\u00e9e \u00e0 la utilisation du n\u00e9bul\u00e9) \u00e0 l'utilisation des nerfs \u00e0 bonne marche et \u00e0 d'autres n\u00e9buli\u00e8res de lumi\u00e8re.",
+        "gold": "Nous avons trouv\u00e9 10 ECR recouvrant 2961 op\u00e9rations dans lesquelles des aiguilles \u00e9mouss\u00e9es ont \u00e9t\u00e9 compar\u00e9es \u00e0 des aiguilles pointues.",
+        "prefix": ""
+    },
+    {
+        "input": "We also contacted investigators involved with the identified trials for other published or unpublished trials.",
+        "output": "Les chercheurs ont contact\u00e9 toutes les \u00e9tudes \u00e9valuant les r\u00e9sultats du essais identifi\u00e9 et d'autres essais non publi\u00e9s ou publi\u00e9s.",
+        "gold": "Nous avons \u00e9galement \u00e9crit aux chercheurs pour obtenir davantage d'essais.",
+        "prefix": ""
+    },
+    {
+        "input": "The rates were 24.5 for the sponge and 10.9 for the diaphragm in the UK trial.",
+        "output": "Les taux d'infection \u00e9taient de 24 % pour la mousse et 10 septembre au Royaume-Uni.",
+        "gold": "Un essai organis\u00e9 au Royaume-Uni a donn\u00e9 des r\u00e9sultats similaires.",
+        "prefix": ""
+    },
+    {
+        "input": "To assess the benefits and harms of RIC for preventing ischaemic stroke and for treating people with ischaemic stroke and those at risk for ischaemic stroke.",
+        "output": "Enfin, nous avons examin\u00e9 les avantages et les inconv\u00e9nients des IRA sur la pr\u00e9vention et la pr\u00e9vention d'un AVC isch\u00e9mique et des personnes ayant un AVC isch\u00e9mique et leurs risques de AVC isch\u00e9mique.",
+        "gold": "Quels sont les avantages du conditionnement isch\u00e9mique \u00e0 distance (une th\u00e9rapie physique non invasive qui consiste \u00e0 gonfler les brassards de tensiom\u00e8tre pour r\u00e9duire le d\u00e9bit sanguin dans les bras et les jambes, puis \u00e0 lib\u00e9rer ce sang dans le corps) chez les personnes victimes d'un AVC ou celles \u00e0 risque d'un AVC caus\u00e9 par un faible d\u00e9bit sanguin ?",
+        "prefix": ""
+    },
+    {
+        "input": "In four studies, the use of blunt needles reduced the number of self-reported needle stick injuries with a RR of 0.31 (95% CI 0.14 to 0.68).",
+        "output": "Cependant, l'utilisation des nerfs du fer r\u00e9duisait la mortalit\u00e9 avec des blessures des aiguilles li\u00e9es au canal.",
+        "gold": "Dans quatre \u00e9tudes, l'utilisation d'aiguilles \u00e9mouss\u00e9es a \u00e9galement r\u00e9duit de 69% le nombre de piq\u00fbres accidentelles signal\u00e9es par les int\u00e9ress\u00e9s (intervalle de confiance \u00e0 95% : 14% \u00e0 68%).",
+        "prefix": ""
+    },
+    {
+        "input": "They can be grouped into those including a bleaching agent such as hydroquinone, triple-combination creams (hydroquinone, tretinoin, and fluocinolone acetonide), and combination therapies (hydroquinone cream and glycolic acid peels), as well as less conventional therapies including rucinol, vitamin C iontophoresis, and skin-lightening complexes like Thiospot and Gigawhite.",
+        "output": "Les traitements \u00e0 base de l'hydroquinone, de l'hydroquinone, de l'aminoz\u00e9pine, des peels glycoliques et des injections de l'hydroquinone.",
+        "gold": "Parmi les traitements conventionnels contre le m\u00e9lasma, on trouve les cr\u00e8mes solaires, les cr\u00e8mes d\u00e9pigmentantes (comme l'hydroquinone), les cr\u00e8mes contre l'acn\u00e9 (comme l'acide az\u00e9la\u00efque), les r\u00e9tino\u00efdes topiques (comme la tr\u00e9tino\u00efne) et les exfoliants faciaux o\u00f9 une solution acide est utilis\u00e9e pour \u00e9liminer les couches superficielles de la peau (comme les exfoliants \u00e0 base d'acide glycolique).",
+        "prefix": ""
+    },
+    {
+        "input": "Randomised controlled trials of tai chi lasting at least three months involving healthy adults or adults at high risk of CVD.",
+        "output": "Les essais contr\u00f4l\u00e9s randomis\u00e9s portant sur moins de trois mois avec les adultes \u00e0 bonne sant\u00e9 et les adultes pr\u00e9sentant un risque de DVC.",
+        "gold": "Il y avait des variations dans la dur\u00e9e et le mode de tai-chi, et le suivi des interventions allait de 3 \u00e0 12 mois.",
+        "prefix": ""
+    },
+    {
+        "input": "There were no significant differences in the error score between the two groups in any of the comparisons (box trainer suturing versus box trainer drills; single incision versus multiport box model training; Z-maze box training versus U-maze box training).",
+        "output": "Les diff\u00e9rences significatives ont \u00e9t\u00e9 observ\u00e9es entre les groupes dans certains autres comparaisons.",
+        "gold": "Il ne semble pas y avoir de diff\u00e9rences significatives dans les diff\u00e9rentes m\u00e9thodes de formation utilisant des mod\u00e8les en boite.",
+        "prefix": ""
+    },
+    {
+        "input": "Surgical training has traditionally been one of apprenticeship, where the surgical trainee learns to perform surgery under the supervision of a trained surgeon.",
+        "output": "L'apprentissage est traditionnellement utilis\u00e9.",
+        "gold": "La formation chirurgicale est traditionnellement, constitu\u00e9e d'un apprentissage o\u00f9 le stagiaire chirurgien apprend \u00e0 pratiquer la chirurgie sous la supervision d'un chirurgien form\u00e9.",
+        "prefix": ""
+    },
+    {
+        "input": "To compare the benefits and harms of box model training versus no training, another box model, animal model, or cadaveric model training for surgical trainees with no prior laparoscopic experience.",
+        "output": "L'objectif de cette revue Cochrane \u00e9tait d'\u00e9valuer les b\u00e9n\u00e9fices et les inconv\u00e9nients du cycle \u00e0 boite par rapport \u00e0 l'absence de formation, \u00e0 l'autre mise en aveugle ou au mod\u00e8le animal ou \u00e0 la formation de machine \u00e0 boite sur les stagiaires ayant une formation laparoscopique pr\u00e9alable.",
+        "gold": "Nous avons cherch\u00e9 \u00e0 d\u00e9terminer si la formation utilisant des mod\u00e8les en boite est utile chez ces stagiaires en termes d'am\u00e9lioration des r\u00e9sultats techniques par une recherche exhaustive de la litt\u00e9rature m\u00e9dicale pour trouver des essais cliniques randomis\u00e9s.",
+        "prefix": ""
+    },
+    {
+        "input": "Statins have an important role in primary prevention of cardiovascular events and mortality in people who have CKD.",
+        "output": "La strat\u00e9gie Statins a un r\u00f4le important dans la pr\u00e9vention des effets ind\u00e9sirables cardiaques et la mortalit\u00e9 chez les personnes ayant un MRC.",
+        "gold": "Bien que l'utilisation des statines n'ait pas r\u00e9duit clairement les risques de progression de l'insuffisance r\u00e9nale, elles peuvent \u00eatre recommand\u00e9es pour r\u00e9duire les risques de d\u00e9c\u00e8s et d'\u00e9v\u00e9nements cardiaques chez les personnes qui sont aux premiers stades de l'insuffisance r\u00e9nale.",
+        "prefix": ""
+    },
+    {
+        "input": "Randomised controlled trials, controlled clinical trials and non-randomised studies (if they reported on outcome stratified by antithrombotic treatment and included at least four patients) of anticoagulants or antiplatelet agents for the treatment of extracranial internal carotid artery dissection.",
+        "output": "Les \u00e9tudes non randomis\u00e9es (donn\u00e9es probantes provenant de deux \u00e9tudes), contr\u00f4l\u00e9es randomis\u00e9es et non randomis\u00e9es (p. ex.",
+        "gold": "Les m\u00e9dicaments qui fluidifient le sang, comme l'aspirine et les anticoagulants, pourraient pr\u00e9venir la formation de caillots et donc pr\u00e9venir l'accident vasculaire c\u00e9r\u00e9bral (AVC) chez les personnes souffrant de dissection de l'art\u00e8re carotide.",
+        "prefix": ""
+    },
+    {
+        "input": "The adverse events most commonly reported were mild and transient such as skin irritation, itching, burning, and stinging.",
+        "output": "Les effets ind\u00e9sirables les plus fr\u00e9quemment rapport\u00e9s, y compris l' irritation cutan\u00e9e, l'impuissance et les l\u00e9sions, les vomissements et des spasmes.",
+        "gold": "Les effets secondaires rapport\u00e9s le plus fr\u00e9quemment par les participants et les m\u00e9decins \u00e9taient une peau s\u00e8che, rouge et irrit\u00e9e.",
+        "prefix": ""
+    },
+    {
+        "input": "This is time consuming, costly, and of variable effectiveness.",
+        "output": "Il s'agit de travail \u00e0 long terme, co\u00fbteux et et de biais, bien que tout soit donc utilis\u00e9, mais la qualit\u00e9 dur\u00e9e de la maladie se situe.",
+        "gold": "Cette intervention est co\u00fbteuse, se r\u00e9v\u00e8le fastidieuse, et a une efficacit\u00e9 variable.",
+        "prefix": ""
+    },
+    {
+        "input": "We searched trial registers and reference lists of reviews for further studies.",
+        "output": "Des \u00e9tudes suppl\u00e9mentaires ont \u00e9t\u00e9 r\u00e9alis\u00e9es dans diff\u00e9rentes bases de donn\u00e9es pour les autres essais de revue.",
+        "gold": "Nous avons effectu\u00e9 des recherches dans des bases de donn\u00e9es scientifiques pour les essais contr\u00f4l\u00e9s randomis\u00e9s (essais cliniques o\u00f9 les personnes sont assign\u00e9es au hasard \u00e0 l'un des deux ou \u00e0 plusieurs traitements) qui examinent les effets du tai-chi chez des adultes pr\u00e9sentant un risque \u00e9lev\u00e9 de d\u00e9veloppement de MCV.",
+        "prefix": ""
+    },
+    {
+        "input": "The quality of studies evaluating melasma treatments was generally poor and available treatments inadequate.",
+        "output": "La qualit\u00e9 des traitements utilis\u00e9s \u00e9tait g\u00e9n\u00e9ralement mauvaise, mais les traitements disponibles \u00e9taient mod\u00e9r\u00e9ment efficaces.",
+        "gold": "Cependant, de nombreuses \u00e9tudes \u00e9taient de faible qualit\u00e9 et portaient sur un nombre r\u00e9duit de patients.",
+        "prefix": ""
+    },
+    {
+        "input": "We also searched the Allied and complementary Medicine Database (AMED) and OpenGrey (inception to October 2012) and several Asian databases.",
+        "output": "Nous avons consult\u00e9 l'\u00e9tude portant sur la m\u00e8re parmi les autres m\u00e9dicaments ADM et la m\u00e9decine compl\u00e8te (AMED) et OpenGrey (inception jusqu'au 30 octobre 2012).",
+        "gold": "Nous avons effectu\u00e9 des recherches dans des bases de donn\u00e9es scientifiques pour les essais contr\u00f4l\u00e9s randomis\u00e9s (essais cliniques o\u00f9 les personnes sont assign\u00e9es au hasard \u00e0 l'un des deux ou \u00e0 plusieurs traitements) qui examinent les effets du tai-chi chez des adultes pr\u00e9sentant un risque \u00e9lev\u00e9 de d\u00e9veloppement de MCV.",
+        "prefix": ""
+    },
+    {
+        "input": "We included randomised controlled trials (RCTs) comparing RIC with sham RIC or medical management in people with ischaemic stroke or at risk of ischaemic stroke.",
+        "output": "Nous avons recherch\u00e9 des essais contr\u00f4l\u00e9s randomis\u00e9s (ECR) sur les patients atteints d'AVC isch\u00e9mique ou de risque d'AVC isch\u00e9mique?",
+        "gold": "Les \u00e9tudes comparaient le CID au CID factice ou \u00e0 la prise en charge m\u00e9dicale des personnes victimes d\u2019un AVC isch\u00e9mique ou \u00e0 risque d'un AVC isch\u00e9mique.",
+        "prefix": ""
+    },
+    {
+        "input": "In people with symptomatic intracerebral artery stenosis, recurrent stroke was significantly reduced by RIC (risk ratio (RR) 0.32, 95% confidence interval (CI) 0.12 to 0.83; 2 trials, 182 participants, low-quality evidence).",
+        "output": "Le traitement initial \u00e9tait plus efficace chez les personnes atteintes d'un AVC d'asthme r\u00e9current.",
+        "gold": "Chez les personnes pr\u00e9sentant un r\u00e9tr\u00e9cissement des art\u00e8res c\u00e9r\u00e9brales, le CID peut potentiellement diminuer le risque d'AVC r\u00e9cidivants.",
+        "prefix": ""
+    },
+    {
+        "input": "The adverse events most commonly reported were mild and transient such as skin irritation, itching, burning, and stinging.",
+        "output": "Les effets secondaires les plus fr\u00e9quemment rapport\u00e9s \u00e9taient l\u00e9gers et transitoires tels que des irritations, des rougeurs, de l'enflure, des yeux, de l'essoufflement et des ulc\u00e8res de lit et des infections, telles que les escarres, des saignements et des saignements.",
+        "gold": "Aucun effet secondaire grave n'a \u00e9t\u00e9 rapport\u00e9.",
+        "prefix": ""
+    },
+    {
+        "input": "The low quality evidence\u00a0showed that brief co-incubation was associated with a significantly higher clinical pregnancy rate than the overnight insemination protocol (pooled OR 2.36, 95% CI 1.45 to 3.85; P = 0.0006, I2 = 0%).",
+        "output": "La co-incubation pendant un prochain s\u00e9jour, un rapport de biais en cours sur le taux de grossesse clinique que le protocole d'insemination apr\u00e8s ins\u00e9mination.",
+        "gold": "Des donn\u00e9es de faible qualit\u00e9 ont montr\u00e9 une augmentation des taux de grossesses en cours et de grossesses cliniques avec l'utilisation du protocole de co-incubation br\u00e8ve.",
+        "prefix": ""
+    },
+    {
+        "input": "There was considerable heterogeneity between the studies included in this review and studies were small and at some risk of bias.",
+        "output": "Les \u00e9tudes incluses dans cette revue ont fait \u00e9tat de faible qualit\u00e9 entre les groupes inclus dans cette revue et pr\u00e9sentaient un risque de biais, ainsi qu'un risque de biais, ainsi que les \u00e9tudes \u00e9taient m\u00e9diocre, bien que les diff\u00e9rences existantes entre les groupes.",
+        "gold": "En raison du petit nombre d'\u00e9tudes \u00e0 court terme et de la variabilit\u00e9 entre elles, nous ne sommes pas parvenus \u00e0 d\u00e9terminer de fa\u00e7on concluante si oui ou non le tai-chi \u00e9tait b\u00e9n\u00e9fique pour r\u00e9duire le risque cardio-vasculaire chez les adultes en bonne sant\u00e9 et chez les adultes pr\u00e9sentant un risque accru de MCV, bien que des effets b\u00e9n\u00e9fiques pour les facteurs de risque cardio-vasculaire ont \u00e9t\u00e9 observ\u00e9s dans certaines \u00e9tudes.",
+        "prefix": ""
+    },
+    {
+        "input": "There are currently no long-term trials examining tai chi for the primary prevention of CVD.",
+        "output": "Aucune \u00e9tude n'a \u00e9t\u00e9 examin\u00e9e pour la pr\u00e9vention du CVD.",
+        "gold": "Des essais de haute qualit\u00e9 et \u00e0 plus long terme sont n\u00e9cessaires afin de d\u00e9terminer l'efficacit\u00e9 du tai-chi pour la pr\u00e9vention des MCV.",
+        "prefix": ""
+    },
+    {
+        "input": "Cardiovascular disease (CVD) is the most frequent cause of death in people with early stages of chronic kidney disease (CKD), for whom the absolute risk of cardiovascular events is similar to people who have existing coronary artery disease.",
+        "output": "L'AVC est la maladie r\u00e9nale courante qui apparait des saignements chez les personnes atteintes de maladie r\u00e9nale chronique (MRC), qui s'aggravent par la dur\u00e9e d'un pronostic vital chez les personnes souffrant de douleurs chroniques de la maladie r\u00e9nale (MRC), pour les personnes pr\u00e9sentant des risques d'acardie r\u00e9nales chroniques (MRC).",
+        "gold": "Le traitement par statines s'est \u00e9galement av\u00e9r\u00e9 efficace dans la r\u00e9duction des maladies et des d\u00e9c\u00e8s cardiaques chez les personnes atteintes d'IRC sans maladie cardiaque.",
+        "prefix": ""
+    },
+    {
+        "input": "Twenty-five trials contributed data to the quantitative synthesis in this review.",
+        "output": "La synth\u00e8se quantitative de ces donn\u00e9es a \u00e9t\u00e9 obtenue dans cette revue.",
+        "gold": "Nous avons identifi\u00e9 et inclus 25 essais dans la revue.",
+        "prefix": ""
+    },
+    {
+        "input": "In the larger USA trial, the 12-month cumulative life-table termination rates per 100 women for overall pregnancy were 17.4 for the sponge and 12.8 for the diaphragm.",
+        "output": "Cette \u00e9tude a identifi\u00e9 neuf essais en ligne aupr\u00e8s de 100 femmes sur 100 lors de la grossesse globale (donn\u00e9es de faible qualit\u00e9 avec 16 femmes) et le diaphragme et le diaphragme.",
+        "gold": "Sur 100 femmes utilisant une \u00e9ponge pendant un an, environ 17 sont devenues enceintes, contre 13 parmi celles qui utilisaient un diaphragme.",
+        "prefix": ""
+    },
+    {
+        "input": "Cardiovascular disease (CVD) is the most frequent cause of death in people with early stages of chronic kidney disease (CKD), for whom the absolute risk of cardiovascular events is similar to people who have existing coronary artery disease.",
+        "output": "La maladie cardiaque (MRC) est la maladie r\u00e9nale la plus fr\u00e9quente chez les personnes atteintes de la maladie r\u00e9nale (MRC), qui peut \u00eatre similaires \u00e0 celle caract\u00e9ris\u00e9e par la maladie r\u00e9nale chronique (MRC).",
+        "gold": "Cependant, les effets secondaires potentiels sont incertains et doivent \u00eatre davantage \u00e9tudi\u00e9s.",
+        "prefix": ""
+    },
+    {
+        "input": "Overall, 14 trials (382 participants) provided data for quantitative comparison of different methods of box training.",
+        "output": "Les 14 essais ont rendu compte de diff\u00e9rentes m\u00e9thodes de formation du bouchon pour les participants.",
+        "gold": "Les caract\u00e9ristiques de l'\u00e9tude Les essais comparaient la formation utilisant des mod\u00e8les en boite par rapport \u00e0 l'absence de formation (16 essais; 464 participants) ou par rapport \u00e0 diff\u00e9rents types de formation utilisant des mod\u00e8les en boite (14 essais; 382 participants) (certains essais et participants ont \u00e9t\u00e9 inclus dans les deux comparaisons, car les essais avaient compar\u00e9 diff\u00e9rentes m\u00e9thodes de formation utilisant des boites par rapport \u00e0 l'absence de formation). R\u00e9sultats principaux",
+        "prefix": ""
+    },
+    {
+        "input": "Three trials reported lipid levels and two found reductions in total cholesterol, LDL-C and triglycerides (total cholesterol reductions ranged from -1.30 mmol/L (95% CI -1.57 to -1.03) to -0.50 mmol/L (95% CI -0.74 to -0.26): LDL-C reductions ranged from -0.76 mmol/L (95% CI -0.93 to -0.59) to -0.59 mmol/L (95% CI -0.80 to -0.38): triglyceride reductions ranged from -0.46 mmol/L (95% CI -0.62 to -0.30) to -0.37 mmol/L (95% CI -0.67 to-0.07)) and increased HDL-C with the intervention (HDL-C increases ranged from 0.61 mmol/L (95% CI 0.51 to 0.71) to 0.16 mmol/L (95% CI 0.02 to 0.30)), while the third study found no clear evidence of a difference between groups on lipid levels.",
+        "output": "Les trois essais comparaient les lipides, la LDL-C et la triglyc\u00e9rides, mais une \u00e9tude n'a trouv\u00e9 aucun preuve de diff\u00e9rence sur les niveaux de lipides.",
+        "gold": "En raison du petit nombre d'\u00e9tudes \u00e0 court terme et de la variabilit\u00e9 entre elles, nous ne sommes pas parvenus \u00e0 d\u00e9terminer de fa\u00e7on concluante si oui ou non le tai-chi \u00e9tait b\u00e9n\u00e9fique pour r\u00e9duire le risque cardio-vasculaire chez les adultes en bonne sant\u00e9 et chez les adultes pr\u00e9sentant un risque accru de MCV, bien que des effets b\u00e9n\u00e9fiques pour les facteurs de risque cardio-vasculaire ont \u00e9t\u00e9 observ\u00e9s dans certaines \u00e9tudes.",
+        "prefix": ""
+    },
+    {
+        "input": "There appears to be no significant differences in the improvement of technical skills between different methods of box model training.",
+        "output": "Les diff\u00e9rences ne montrent pas de diff\u00e9rence significative entre les diff\u00e9rentes m\u00e9thodes de formation au mod\u00e8le du boite (avec l'entrainement sur les m\u00eames profils pour les apprentis professionnels de plancher d'acc\u00e8s et le but de r\u00e9adaptation des deux m\u00e9thodes).",
+        "gold": "Il ne semble pas y avoir de diff\u00e9rences significatives dans les diff\u00e9rentes m\u00e9thodes de formation utilisant des mod\u00e8les en boite.",
+        "prefix": ""
+    },
+    {
+        "input": "Cardiovascular disease (CVD) is the most frequent cause of death in people with early stages of chronic kidney disease (CKD), for whom the absolute risk of cardiovascular events is similar to people who have existing coronary artery disease.",
+        "output": "Le risque d'\u00e9v\u00e9nements cardiovasculaires peut \u00eatre similaire \u00e0 ceux ayant \u00e9t\u00e9 diagnostiqu\u00e9s \u00e0 l'\u00e9gard de la maladie r\u00e9nale chronique (MRC).",
+        "gold": "Les adultes atteints d'insuffisance r\u00e9nale chronique (IRC) ont un risque \u00e9lev\u00e9 de d\u00e9velopper des complications de maladie cardiaque.On pense que le traitement par statines diminue le cholest\u00e9rol et r\u00e9duit les risques de d\u00e9c\u00e8s et de complications de maladie cardiaque.",
+        "prefix": ""
+    },
+    {
+        "input": "This review highlights the paucity of data and the need for more research in this area.",
+        "output": "Cependant, la n\u00e9cessit\u00e9 de recherches suppl\u00e9mentaires dans ce domaine \u00e0 inclure dans la litt\u00e9rature, la d\u00e9pendance des donn\u00e9es et la n\u00e9cessit\u00e9 de recherches suppl\u00e9mentaires dans ce domaine.",
+        "gold": "Cette \u00e9tude a constat\u00e9 qu'il n'y a pas assez de recherche publi\u00e9e sur l'\u00e9valuation de programmes visant \u00e0 dissuader les jeunes autochtones de commencer \u00e0 consommer du tabac.",
+        "prefix": ""
+    },
+    {
+        "input": "Four RCTs compared ultrasound with palpation, and one compared ultrasound with Doppler auditory assistance.",
+        "output": "Quatre \u00e9tudes comparaient l'utilisation de l'acupuncture avec la palpation et deux comparaient la palpation et l'un comparait l'utilisation d'acupuncture avec une intervention auditive et deux comparaient l'utilisation de la assistance auditive Doppler.",
+        "gold": "Nous avons trouv\u00e9 cinq \u00e9tudes admissibles : quatre comparant l'\u00e9chographie \u00e0 la palpation et une comparant l'\u00e9chographie \u00e0 l'assistance auditive Doppler.",
+        "prefix": ""
+    },
+    {
+        "input": "The results of this review are threatened by both risks of systematic errors (bias) and risks of random errors (play of chance).",
+        "output": "Nous avons cherch\u00e9 \u00e0 \u00eatre int\u00e9ress\u00e9s par les risques de biais syst\u00e9matiques (biais) et les risques de r\u00e9cidive (faux de vie).",
+        "gold": "Qualit\u00e9 des preuves Tous, sauf un des essais, pr\u00e9sentaient un risque de biais \u00e9lev\u00e9 (d\u00e9fauts dans le plan d'\u00e9tude qui peut conduire \u00e0 des conclusions erron\u00e9es avec une surestimation des effets b\u00e9n\u00e9fiques et une sous-estimation des effets nocifs).",
+        "prefix": ""
+    },
+    {
+        "input": "Two trials met the inclusion criteria.",
+        "output": "Deux essais comprenaient des crit\u00e8res d'inclusion.",
+        "gold": "Dans un grand essai men\u00e9 aux \u00c9tats-Unis, l'\u00e9ponge n'a pas aussi bien fonctionn\u00e9 que le diaphragme pour \u00e9viter les grossesses.",
+        "prefix": ""
+    },
+    {
+        "input": "To compare the benefits and harms of box model training versus no training, another box model, animal model, or cadaveric model training for surgical trainees with no prior laparoscopic experience.",
+        "output": "Nous avons voulu comparer l'utilisation d'un mod\u00e8le \u00e0 boite par rapport \u00e0 l'absence de formation, au mod\u00e8le animal ou du mod\u00e8le lat\u00e9ral ou du mod\u00e8le de la cave-vie d'une op\u00e9ration chirurgicale.",
+        "gold": "L'impact de la formation utilisant des mod\u00e8les en boite pour les stagiaires en chirurgie sans exp\u00e9rience laparoscopique pr\u00e9alable est inconnu.",
+        "prefix": ""
+    },
+    {
+        "input": "Training using a box model physical simulator - either a video box or a mirrored box - is an option to supplement standard training.",
+        "output": "En utilisant un mod\u00e8le physique (simulation par bouchon) de type physique (ou montreit) - une option de suppl\u00e9mentation \u00e0 la formation standard.",
+        "gold": "La formation utilisant des mod\u00e8les en boite (simulation physique) est une option pour compl\u00e9ter la formation standard de la chirurgie laparoscopique.",
+        "prefix": ""
+    },
+    {
+        "input": "There is high quality evidence that the use of blunt needles appreciably reduces the risk of exposure to blood and bodily fluids for surgeons and their assistants over a range of operations.",
+        "output": "Nous avons trouv\u00e9 que l'utilisation des br\u00fblures r\u00e9duisait \u00e9galement le risque de risque de thrombose des vaisseaux sanguins et des liquides chez les chirurgiens et leurs assistants sur la p\u00e9riode de proc\u00e9dure.",
+        "gold": "Nous avons conclu qu'il existe des preuves de qualit\u00e9 \u00e9lev\u00e9e que l'utilisation d'aiguilles \u00e9mouss\u00e9es r\u00e9duit sensiblement le risque qu'ont les chirurgiens et leurs assistants de contracter des maladies infectieuses dans toute une gamme d'op\u00e9rations, de par la r\u00e9duction du nombre de blessures par piq\u00fbre d'aiguille.",
+        "prefix": ""
+    },
+    {
+        "input": "Cardiovascular disease (CVD) is the most frequent cause of death in people with early stages of chronic kidney disease (CKD), for whom the absolute risk of cardiovascular events is similar to people who have existing coronary artery disease.",
+        "output": "La maladie cardiovasculaire (MCV) est l'une des causes les plus fr\u00e9quentes de d\u00e9c\u00e8s en cas de maladie r\u00e9nale chronique (MRC), qui touche tous les personnes ayant une maladie r\u00e9nale aigu\u00eb (MRC) et qui ont \u00e9t\u00e9 observ\u00e9es en d'autres r\u00e9sultats cardiaques.",
+        "gold": "Nous avons constat\u00e9 que ces questions n'\u00e9taient pas bien analys\u00e9es dans les \u00e9tudes que nous avons \u00e9valu\u00e9es, et ces effets ne sont pas bien compris.",
+        "prefix": ""
+    },
+    {
+        "input": "There were also no randomised trials that directly compared anticoagulants with antiplatelet drugs and the reported non-randomised studies did not show any evidence of a significant difference between the two.",
+        "output": "Les autres \u00e9tudes ne montrent aucun avantage sur les anticoagulants \u00e0 l'aide d'antiplaquettaires \u00e0 un traitement antiplaquettaire, mais les \u00e9tudes non randomis\u00e9es n'ont montr\u00e9 aucune preuve de diff\u00e9rence significative entre les deux.",
+        "gold": "Des recherches suppl\u00e9mentaires sont n\u00e9cessaires.",
+        "prefix": ""
+    },
+    {
+        "input": "Randomised controlled trials that evaluated topical and systemic interventions for melasma.",
+        "output": "Nous avons trouv\u00e9 des essais contr\u00f4l\u00e9s randomis\u00e9s (ECR) impliquant 3 \u00e9tudes et 24 \u00e9tudes sur la m\u00e9lanome.",
+        "gold": "Enfin, le m\u00e9lasma mixte est une association du m\u00e9lasma \u00e9pidermique et dermique.",
+        "prefix": ""
+    },
+    {
+        "input": "Tobacco use in Indigenous populations (people who have inhabited a country for thousands of years) is often double that in the non-Indigenous population.",
+        "output": "\u00c0 partir de pays d'origine ind\u00e9pendante (par ex.",
+        "gold": "Dans les populations autochtones, le nombre de fumeurs n'a pas diminu\u00e9 comme dans les populations environnantes.",
+        "prefix": ""
+    },
+    {
+        "input": "To evaluate the effectiveness of intervention programmes to prevent tobacco use initiation or progression to regular smoking amongst young Indigenous populations and to summarise these approaches for future prevention programmes and research.",
+        "output": "Nous avons \u00e9valu\u00e9 l'efficacit\u00e9 des programmes de traitement contre l'usage du tabac dans la pr\u00e9vention du tabagisme dans les \u00e9tudes ainsi que dans la pr\u00e9vention.",
+        "gold": "Cette \u00e9tude a constat\u00e9 qu'il n'y a pas assez de recherche publi\u00e9e sur l'\u00e9valuation de programmes visant \u00e0 dissuader les jeunes autochtones de commencer \u00e0 consommer du tabac.",
+        "prefix": ""
+    },
+    {
+        "input": "Results of the ongoing trials will add to the evidence base but additional longer-term, high-quality trials are needed.",
+        "output": "Les donn\u00e9es de tous les essais en cours sont \u00e0 jour pour rajouter aux preuves mais \u00e0 d'autres essais de haute qualit\u00e9 (avec l'ajout des r\u00e9sultats, mais un \u00e9ventail d'autres essais de haute qualit\u00e9, \u00e0 long terme, \u00e0 long terme, \u00e0 plus grande dur\u00e9e, \u00e0 de longue dur\u00e9e).",
+        "gold": "Des essais de haute qualit\u00e9 et \u00e0 plus long terme sont n\u00e9cessaires afin de d\u00e9terminer l'efficacit\u00e9 du tai-chi pour la pr\u00e9vention des MCV.",
+        "prefix": ""
+    },
+    {
+        "input": "Based on the available evidence, a conclusion cannot be drawn as to the efficacy of tobacco prevention initiatives tailored for Indigenous youth.",
+        "output": "Le conclusion ne peut pas \u00eatre prise en compte pour l'efficacit\u00e9 des interventions pour pr\u00e9venir les tabacs en Europe.",
+        "gold": "L'information issue des deux \u00e9tudes incluses dans cette revue (1\u00a0505 participants au total, dans les communaut\u00e9s am\u00e9rindiennes) ne permet pas de d\u00e9terminer si les programmes de pr\u00e9vention du tabagisme dans les populations autochtones parviennent \u00e0 dissuader les jeunes autochtones de fumer ou de consommer du tabac sans fum\u00e9e.",
+        "prefix": ""
+    },
+    {
+        "input": "No difference was observed in weekly smoking at 42 months follow-up in the one study assessing this outcome (skills-community group versus control: risk ratio [RR] 0.95, 95% CI 0.78 to 1.14; skills-only group versus control: RR 0.86, 95% CI 0.71 to 1.05).",
+        "output": "Il n'y a eu aucune diff\u00e9rence significative entre le groupe avec la famille ; la comparaison entre les groupes de l'\u00e9gard du groupe qui a \u00e9t\u00e9 analys\u00e9e, avec l'utilisation des traitements ; le groupe du groupe de la famille ; le groupe t\u00e9moin : les traitements de l'estomac par rapport au groupe t\u00e9moin, et les groupes de contr\u00f4le ; l'une a \u00e9valu\u00e9 les crit\u00e8res de jugement.",
+        "gold": "L'information issue des deux \u00e9tudes incluses dans cette revue (1\u00a0505 participants au total, dans les communaut\u00e9s am\u00e9rindiennes) ne permet pas de d\u00e9terminer si les programmes de pr\u00e9vention du tabagisme dans les populations autochtones parviennent \u00e0 dissuader les jeunes autochtones de fumer ou de consommer du tabac sans fum\u00e9e.",
+        "prefix": ""
+    },
+    {
+        "input": "They can be grouped into those including a bleaching agent such as hydroquinone, triple-combination creams (hydroquinone, tretinoin, and fluocinolone acetonide), and combination therapies (hydroquinone cream and glycolic acid peels), as well as less conventional therapies including rucinol, vitamin C iontophoresis, and skin-lightening complexes like Thiospot and Gigawhite.",
+        "output": "Les agents suivants peuvent \u00eatre class\u00e9s avec le m\u00eame agent tels que la quinone, la tretinoine, l'ac\u00e9tinide et le pulv\u00e9risation glycolique, et les complexes de la peau \u00e0 l'ajout de cr\u00e8mes suppl\u00e9mentaires (y compris le rucun agent de la peau et le peil glycol et le r\u00e9sultan de la vitamine C, telles que le thiospot et Gigawhite), tout en particulier les soins conventionnels plus utilis\u00e9s \u00e0 l'\u00e9gard de la peau, tels que les produits d'hydroquinone, le tretinoine, les lotions par voie orale et de l'hydroquinone) ou acouph\u00e8nes et les r\u00e9parations combin\u00e9es.",
+        "gold": "Parmi les traitements conventionnels contre le m\u00e9lasma, on trouve les cr\u00e8mes solaires, les cr\u00e8mes d\u00e9pigmentantes (comme l'hydroquinone), les cr\u00e8mes contre l'acn\u00e9 (comme l'acide az\u00e9la\u00efque), les r\u00e9tino\u00efdes topiques (comme la tr\u00e9tino\u00efne) et les exfoliants faciaux o\u00f9 une solution acide est utilis\u00e9e pour \u00e9liminer les couches superficielles de la peau (comme les exfoliants \u00e0 base d'acide glycolique).",
+        "prefix": ""
+    },
+    {
+        "input": "There was considerable heterogeneity between the studies included in this review and studies were small and at some risk of bias.",
+        "output": "Les \u00e9tudes incluses dans cette revue \u00e9taient des donn\u00e9es relativement m\u00e9diocres, mais elles \u00e9taient moins susceptibles de faire peu ou pas de biais.",
+        "gold": "Qualit\u00e9 des preuves Les r\u00e9sultats de cette revue doivent \u00eatre consid\u00e9r\u00e9s avec prudence car les \u00e9tudes \u00e9taient de petite taille, de courte dur\u00e9e et il y avait un risque de biais (o\u00f9 il y avait un risque d'apporter des conclusions erron\u00e9es en raison du favoritisme par les participants ou les chercheurs).",
+        "prefix": ""
+    },
+    {
+        "input": "The use of blunt needles can reduce this risk because they don't penetrate skin easily but still perform sufficiently in other tissues.",
+        "output": "Les souches avec des nourrissons ont utilis\u00e9 la peau \u00e0 drainer rapidement.",
+        "gold": "L'utilisation d'aiguilles \u00e9mouss\u00e9es est propos\u00e9e afin de pr\u00e9venir les blessures par piq\u00fbre d'aiguille.",
+        "prefix": ""
+    },
+    {
+        "input": "Allergic-type reactions were more common with the sponge, although discontinuation for discomfort differed in the two trials.",
+        "output": "Les r\u00e9actions allergiques \u00e9taient plus fr\u00e9quentes avec la sponge.",
+        "gold": "Certaines femmes ont pr\u00e9sent\u00e9 une allergie \u00e0 l'\u00e9ponge.",
+        "prefix": ""
+    },
+    {
+        "input": "On average, a surgeon that used sharp needles sustained one glove perforation in three operations.",
+        "output": "Les deux op\u00e9rations sont difficiles \u00e0 r\u00e9aliser.",
+        "gold": "En moyenne, un chirurgien utilisant des aiguilles pointues subissait une perforation de gant pour trois op\u00e9rations.",
+        "prefix": ""
+    },
+    {
+        "input": "Four studies focused on abdominal closure, two on caesarean section, two on vaginal repair and two on hip replacement.",
+        "output": "Les quatre \u00e9tudes portant sur la fermeture abdominale, deux sur la cicatrisation vaginale, deux sur la restauration des hancheaux et deux sur la r\u00e9paration du col du hanche et deux sur la r\u00e9paration du col du hanche.",
+        "gold": "Six \u00e9tudes concernaient des 'op\u00e9rations abdominales, deux la r\u00e9paration vaginale et deux la pose de proth\u00e8se de hanche.",
+        "prefix": ""
+    },
+    {
+        "input": "In IVF procedures, oocytes and sperm are routinely co-incubated overnight, which may expose oocytes and zygotes to suboptimal culture conditions with increased reactive oxygen species (ROS) produced by sperm in this long term culture.",
+        "output": "Les proc\u00e9dures FIV peuvent exposer les ost\u00e9ons et les spermatozo\u00efdes aux conditions sous-optimales.",
+        "gold": "Dans les protocoles standard d'ins\u00e9mination pour FIV, les ovocytes sont expos\u00e9s au sperme pendant 15 \u00e0 20 heures.",
+        "prefix": ""
+    },
+    {
+        "input": "Melasma is an acquired symmetrical pigmentary disorder where confluent grey-brown patches typically appear on the face.",
+        "output": "Il s'agit de trouble pigmentaire qui se caract\u00e9rise par les patchs de peau dans la peau \u00e0 proximit\u00e9 de l'\u0153il, tels que des lambeurs de rougeur \u00e0 marrons, apparaissent g\u00e9n\u00e9ralement au cou, voire dans la t\u00eate et les yeux.",
+        "gold": "Le m\u00e9lasma est une maladie cutan\u00e9e psychologiquement stressante connue \u00e9galement sous le nom de \u201cchloasma\u201d ou \u201cmasque de grossesse\u201d) Des taches cutan\u00e9es plus fonc\u00e9es apparaissent graduellement sur les joues, le front, le nez et la l\u00e8vre sup\u00e9rieure.",
+        "prefix": ""
+    },
+    {
+        "input": "Preclinical studies have suggested that RIC may have beneficial effects in ischaemic stroke patients and those at risk of ischaemic stroke.",
+        "output": "L'utilisation du MRC peut avoir des effets b\u00e9n\u00e9fiques chez les personnes victimes d'un AVC isch\u00e9mique et chez celles pr\u00e9sentant un risque de AVC isch\u00e9mique.",
+        "gold": "Des \u00e9tudes ont sugg\u00e9r\u00e9 que le CID pourrait avoir des effets b\u00e9n\u00e9fiques sur la pr\u00e9vention et le traitement de l'AVC isch\u00e9mique.",
+        "prefix": ""
+    },
+    {
+        "input": "As tai chi involves exercise and can help in stress reduction, it may be effective in the primary prevention of CVD.",
+        "output": "Les autres traitements sont n\u00e9cessaires pour la pr\u00e9vention du CVC.",
+        "gold": "Cependant, on pense que le risque de MCV peut \u00eatre r\u00e9duit par un certain nombre de changement de comportements, y compris l'augmentation de l'activit\u00e9 physique et la relaxation pour r\u00e9duire le stress et les deux sont inclues dans le tai-chi.",
+        "prefix": ""
+    },
+    {
+        "input": "The use of blunt needles will thus prevent one glove perforation in every six operations.",
+        "output": "Le but d'il est de pr\u00e9venir les perforations du col du gomme en toutes les op\u00e9rations, de toutes les autres, du m\u00eame type de traitement.",
+        "gold": "L'utilisation d'aiguilles \u00e9mouss\u00e9es dans six op\u00e9rations permettra donc d'\u00e9viter une perforation de gant.",
+        "prefix": ""
+    },
+    {
+        "input": "For smokeless tobacco use, no difference was found between the skills-community arm and the control group at 42 weeks (RR 0.93, 95% CI 0.67 to 1.30), though a significant difference was observed between the skills-only arm and the control group (RR 0.57, 95% CI 0.39 to 0.85).",
+        "output": "Il n'y a pas eu de diff\u00e9rence en termes de temps entre le bras de comp\u00e9tences et le bras du contr\u00f4le, bien que une diff\u00e9rence significative n'a \u00e9t\u00e9 observ\u00e9e entre les bras du bras de comp\u00e9tences et le groupe t\u00e9moin sur la dur\u00e9e du s\u00e9jour en groupe et le groupe t\u00e9moin sur l'utilisation de tabac.",
+        "gold": "L'information issue des deux \u00e9tudes incluses dans cette revue (1\u00a0505 participants au total, dans les communaut\u00e9s am\u00e9rindiennes) ne permet pas de d\u00e9terminer si les programmes de pr\u00e9vention du tabagisme dans les populations autochtones parviennent \u00e0 dissuader les jeunes autochtones de fumer ou de consommer du tabac sans fum\u00e9e.",
+        "prefix": ""
+    },
+    {
+        "input": "As an attempt to avoid possible detrimental effects on the oocytes from long exposure to sperm, the brief co-incubation insemination protocol was developed.",
+        "output": "Une strat\u00e9gie de co-incubation aveugle a \u00e9t\u00e9 envisag\u00e9e, en particulier pour pr\u00e9venir les effets de la spermatozo\u00efde au sperme pendant longtemps \u00e0 exposer au sperme.",
+        "gold": "Il est possible que le raccourcissement du temps de co-incubation des ovocytes et du sperme puisse am\u00e9liorer les r\u00e9sultats de la FIV en r\u00e9duisant les effets n\u00e9fastes des DRO sur les zygotes et sur la qualit\u00e9 des embryons.",
+        "prefix": ""
+    },
+    {
+        "input": "Due to the limited evidence available currently no conclusions can be drawn as to the effectiveness of tai chi on CVD risk factors.",
+        "output": "Les preuves sont limit\u00e9es en raison du manque de preuves limit\u00e9es.",
+        "gold": "En raison du petit nombre d'\u00e9tudes \u00e0 court terme et de la variabilit\u00e9 entre elles, nous ne sommes pas parvenus \u00e0 d\u00e9terminer de fa\u00e7on concluante si oui ou non le tai-chi \u00e9tait b\u00e9n\u00e9fique pour r\u00e9duire le risque cardio-vasculaire chez les adultes en bonne sant\u00e9 et chez les adultes pr\u00e9sentant un risque accru de MCV, bien que des effets b\u00e9n\u00e9fiques pour les facteurs de risque cardio-vasculaire ont \u00e9t\u00e9 observ\u00e9s dans certaines \u00e9tudes.",
+        "prefix": ""
+    },
+    {
+        "input": "Statins consistently lower death and major cardiovascular events by 20% in people with CKD not requiring dialysis.",
+        "output": "Les statines ont g\u00e9n\u00e9ralement r\u00e9duit la mortalit\u00e9 et les effets cardiaques majeurs chez 20 % chez 20 % chez les personnes atteintes de MRC pas n\u00e9cessitant une dialyse.",
+        "gold": "Nous avons constat\u00e9 que les statines r\u00e9duisaient les risques de d\u00e9c\u00e8s et d'\u00e9v\u00e9nements cardiaques majeurs de 20\u00a0%.",
+        "prefix": ""
+    },
+    {
+        "input": "Melasma is an acquired symmetrical pigmentary disorder where confluent grey-brown patches typically appear on the face.",
+        "output": "Les patches rouges disparues et les patches blancs non conflues (p. ex. La Melasma) se produisent principalement sur la face et les acouph\u00e8nes \u00e0 celles-ci.",
+        "gold": "Le m\u00e9lasma est une maladie cutan\u00e9e psychologiquement stressante connue \u00e9galement sous le nom de \u201cchloasma\u201d ou \u201cmasque de grossesse\u201d) Des taches cutan\u00e9es plus fonc\u00e9es apparaissent graduellement sur les joues, le front, le nez et la l\u00e8vre sup\u00e9rieure.",
+        "prefix": ""
+    },
+    {
+        "input": "We included all randomised clinical trials comparing box model trainers versus no training in surgical trainees with no prior laparoscopic experience.",
+        "output": "Nous avons \u00e9t\u00e9 inclus dans cette revue.",
+        "gold": "Les essais cliniques randomis\u00e9s sont souvent appel\u00e9s essais contr\u00f4l\u00e9s randomis\u00e9s et sont la meilleure conception d'\u00e9tude pour r\u00e9pondre \u00e0 ces questions.",
+        "prefix": ""
+    },
+    {
+        "input": "The use of blunt needles reduced the risk of glove perforations with a relative risk (RR) of 0.46 (95% confidence interval (CI) 0.38 to 0.54) compared to sharp needles.",
+        "output": "Par rapport aux aiguilles de br\u00fblures, nous avons consid\u00e9r\u00e9 que le risque de perforations des troues r\u00e9duit le risque de perforations du trou (preuves de tr\u00e8s faible qualit\u00e9) avec un risque de r\u00e9gressions des aiguilles avec un risque de s\u00e9paration de gants par rapport \u00e0 des aiguilles \u00e9paisses.",
+        "gold": "L'utilisation d'aiguilles \u00e9mouss\u00e9es a r\u00e9duit le risque de perforation des gants de 54% (intervalle de confiance \u00e0 95% : 46% \u00e0 62%) par rapport aux aiguilles pointues.",
+        "prefix": ""
+    },
+    {
+        "input": "They can be grouped into those including a bleaching agent such as hydroquinone, triple-combination creams (hydroquinone, tretinoin, and fluocinolone acetonide), and combination therapies (hydroquinone cream and glycolic acid peels), as well as less conventional therapies including rucinol, vitamin C iontophoresis, and skin-lightening complexes like Thiospot and Gigawhite.",
+        "output": "La th\u00e9rapie par voie basse peut \u00e9galement \u00eatre compos\u00e9e de cinq (comme l'hydroquinone, le tretinoine, et la fluocinol\u00e9ac\u00e9tomide), mais les autres ont \u00e9t\u00e9 group\u00e9es dans les groupes suivants : l'hydroquinone, les creams de quatre combinaisons (une solution de deux comprim\u00e9s : l'hydroquinone, le tretinoine, le tretinoine et les peules glycoliques) \u00e0 plus longue dur\u00e9e, ainsi que les th\u00e9rapies combin\u00e9es (pr\u00e9oles de la vitamine C et les complexes avec les organismes vivants.",
+        "gold": "Parmi les traitements conventionnels contre le m\u00e9lasma, on trouve les cr\u00e8mes solaires, les cr\u00e8mes d\u00e9pigmentantes (comme l'hydroquinone), les cr\u00e8mes contre l'acn\u00e9 (comme l'acide az\u00e9la\u00efque), les r\u00e9tino\u00efdes topiques (comme la tr\u00e9tino\u00efne) et les exfoliants faciaux o\u00f9 une solution acide est utilis\u00e9e pour \u00e9liminer les couches superficielles de la peau (comme les exfoliants \u00e0 base d'acide glycolique).",
+        "prefix": ""
+    },
+    {
+        "input": "To compare, among patients treated with either anticoagulants or antiplatelet agents, the risk of ischaemic strokes and major bleeding episodes.",
+        "output": "Nous avons cherch\u00e9 \u00e0 comparer chez les patients trait\u00e9s avec les anticoagulants ou agents antiplaquettaires chez les enfants trait\u00e9s par un traitement \u00e0 bande \u00e9troite (ACSI) ou les antiplaquettaires, le risque d'AVC isch\u00e9mique et des d\u00e9c\u00e8s majeurs.",
+        "gold": "Nous n'avons trouv\u00e9 que des \u00e9tudes de mauvaise qualit\u00e9 non randomis\u00e9es comparant le traitement par anticoagulants \u00e0 l'aspirine.",
+        "prefix": ""
+    },
+    {
+        "input": "The improved success rate at the first attempt may be more pronounced in infants and small children, in whom arterial line cannulation is more challenging than in older children.",
+        "output": "Le taux de succ\u00e8s a \u00e9t\u00e9 plus r\u00e9duit chez les nourrissons et les enfants de moins de 6 ans, chez les nouveau-n\u00e9s et les enfants \u00e2g\u00e9s.",
+        "gold": "Il est probable que l'\u00e9chographie soit plus utile pour les nourrissons et les jeunes enfants que pour les enfants plus \u00e2g\u00e9s.",
+        "prefix": ""
+    },
+    {
+        "input": "All studies had at least one domain with unclear risk of bias, and some studies were at high risk of bias for allocation concealment (one study) and selective reporting (two studies).",
+        "output": "La plupart des \u00e9tudes pr\u00e9sentaient moins un domaine avec un risque de biais incertain, y compris des r\u00e9sultats, la consignation en pleine intention et des rapports s\u00e9lectifs (deux \u00e9tudes).",
+        "gold": "Qualit\u00e9 des preuves Les r\u00e9sultats de cette revue doivent \u00eatre consid\u00e9r\u00e9s avec prudence car les \u00e9tudes \u00e9taient de petite taille, de courte dur\u00e9e et il y avait un risque de biais (o\u00f9 il y avait un risque d'apporter des conclusions erron\u00e9es en raison du favoritisme par les participants ou les chercheurs).",
+        "prefix": ""
+    },
+    {
+        "input": "To compare the efficacy and continuation rates of the sponge with the diaphragm (used with nonoxynol-9).",
+        "output": "Les taux de continuation de la mousse avec le diaphragme avec le diaphragme (utilisation avec les nonoxynols-9).",
+        "gold": "La pr\u00e9sente revue comparait le degr\u00e9 d'efficacit\u00e9 de ces deux m\u00e9thodes en termes de pr\u00e9vention de la grossesse.",
+        "prefix": ""
+    },
+    {
+        "input": "Two authors independently identified trials and collected data.",
+        "output": "Deux auteurs ont identifi\u00e9 des essais et ont collect\u00e9 les donn\u00e9es.",
+        "gold": "Deux auteurs de la revue ont consult\u00e9 la litt\u00e9rature m\u00e9dicale disponible jusqu'en mai 2013 et obtenu les informations des essais identifi\u00e9s.",
+        "prefix": ""
+    },
+    {
+        "input": "We searched the Cochrane Stroke Group Trials Register (16 January 2018), the Cochrane Central Register of Controlled Trials (CENTRAL; 2017, Issue 12) in the Cochrane Library (January 2018), MEDLINE Ovid (1946 to January 2018), Embase Ovid (1974 to January 2018), Web of Science Core Collection (1950 to January 2018) and three Chinese databases (January 2018).",
+        "output": "L'objectif de cette revue \u00e9tait de trouver en novembre 2018 un registre de Stroke Group - Stroke Group - Le registre Cochrane Stroke Group (16 janvier 2018), le registre Cochrane Central Register (January 2018), la MEDLINE Ovid (1946 \u00e0 janvier 2018), la Web Web of CSIcore Collection (1950 \u00e0 janvier 2018) et trois \u00e9tudes chinoises pour la publication en janvier 2018).",
+        "gold": "Les r\u00e9sultats de cette revue sont \u00e0 jour au mois de janvier 2018.",
+        "prefix": ""
+    },
+    {
+        "input": "Potential harms from statin therapy were limited by lack of systematic reporting and were uncertain in analyses that had few events: elevated creatine kinase (7 studies, 4514 participants; RR 0.84, 95% CI 0.20 to 3.48), liver function abnormalities (7 studies, RR 0.76, 95% CI 0.39 to 1.50), withdrawal due to adverse events (13 studies, 4219 participants; RR 1.16, 95% CI 0.84 to 1.60), and cancer (2 studies, 5581 participants; RR 1.03, 95% CI 0.82 to 130).",
+        "output": "Les b\u00e9n\u00e9fices potentiels de l'utilisation du statin \u00e9taient limit\u00e9s par l'absence de rapport syst\u00e9matique.",
+        "gold": "Nous avons constat\u00e9 que ces questions n'\u00e9taient pas bien analys\u00e9es dans les \u00e9tudes que nous avons \u00e9valu\u00e9es, et ces effets ne sont pas bien compris.",
+        "prefix": ""
+    },
+    {
+        "input": "Thiospot was more effective than placebo (SMD -2.61, 95% CI -3.76 to -1.47).",
+        "output": "Les thiosuptop\u00e9taient plus efficaces qu'un placebo (trois essais chez cette revue), pourrait aider les patients \u00e0 identifier un placebo.",
+        "gold": "La tr\u00e9tino\u00efne \u00e9tait plus efficace en termes d'\u00e9claircissement du m\u00e9lasma que le placebo, tout comme le complexe blanchissant Thiospot.",
+        "prefix": ""
+    },
+    {
+        "input": "The contraceptive vaginal sponge was developed as an alternative to the contraceptive diaphragm.",
+        "output": "La ballonnet vaginale du vagine a \u00e9t\u00e9 d\u00e9velopp\u00e9e pour une alternative au diaphragme contraceptive.",
+        "gold": "Le diaphragme est un d\u00f4me \u00e9lastique qui se place dans la fili\u00e8re pelvienne et emp\u00eache les spermatozo\u00efdes d'atteindre l'ut\u00e9rus.",
+        "prefix": ""
+    },
+    {
+        "input": "We included 50 studies (45,285 participants): 47 studies (39,820 participants) compared statins with placebo or no treatment and three studies (5547 participants) compared two different statin regimens in adults with CKD who were not yet on dialysis.",
+        "output": "Nous avons inclus 50 \u00e9tudes dans cette revue.",
+        "gold": "Nous avons examin\u00e9 50 \u00e9tudes publi\u00e9es avant juin 2012 concernant le traitement par statines chez plus de 45\u00a0000 personnes atteintes d'IRC qui n'avaient pas besoin d'un traitement de dialyse.",
+        "prefix": ""
+    },
+    {
+        "input": "The results of this review are threatened by both risks of systematic errors (bias) and risks of random errors (play of chance).",
+        "output": "Pour cette revue, les auteurs pr\u00e9sentent des risques de biais syst\u00e9matiques (bias) et des risques de biais randomis\u00e9s (rePLAY de chance).",
+        "gold": "Dans l'ensemble, la qualit\u00e9 des preuves \u00e9tait tr\u00e8s faible.",
+        "prefix": ""
+    },
+    {
+        "input": "Extracranial internal carotid artery dissection (eICAD) is a leading cause of stroke in younger patients.",
+        "output": "La dissection carotidienne interne du carotio\u00efde (eICAD) est une cause primaire du AVC chez les jeunes patients.",
+        "gold": "Des caillots sanguins peuvent se former dans l'art\u00e8re \u00e0 lendroit o\u00f9 elle est ab\u00eem\u00e9e.",
+        "prefix": ""
+    },
+    {
+        "input": "In the larger USA trial, the 12-month cumulative life-table termination rates per 100 women for overall pregnancy were 17.4 for the sponge and 12.8 for the diaphragm.",
+        "output": "L'essai des femmes \u00e2g\u00e9es de 12 mois \u00e0 12 mois de pr\u00e9matur\u00e9 rapportaient 47 femmes, au total, contre 19,4 pour le mousse et 12 \u00e0 le diaphragme.",
+        "gold": "Sur 100 femmes utilisant une \u00e9ponge pendant un an, environ 17 sont devenues enceintes, contre 13 parmi celles qui utilisaient un diaphragme.",
+        "prefix": ""
+    },
+    {
+        "input": "Azelaic acid (20%) was significantly more effective than 2% hydroquinone (RR 1.25, 95% CI 1.06 to 1.48) at lightening melasma but not when compared to 4% hydroquinone (RR 1.11, 95% CI 0.94 to 1.32).",
+        "output": "Le deuxi\u00e8me acide \u00e9tait moins efficace que l'hydroquinone par rapport \u00e0 l'hydroquinone par voie orale \u00e0 l'aide d'un m\u00e9dicament anti-m\u00e9lanome, mais pas chez les enfants atteints de m\u00e9lanome.",
+        "gold": "La cr\u00e8me associant 3 produits \u00e9tait significativement plus efficace pour l\u2019'\u00e9claircissement du m\u00e9lasma, comparativement \u00e0 l'hydroquinone seule ou des cr\u00e8mes associant deux produits comme la tr\u00e9tino\u00efne et l'hydroquinone, la tr\u00e9tino\u00efne et l'ac\u00e9tonide de fluocinolone ou encore l'hydroquinone et l'ac\u00e9tonide de fluocinolone.",
+        "prefix": ""
+    },
+    {
+        "input": "Addiction to nicotine usually begins during early adolescence and young people who reach the age of 18 as non-smokers are unlikely to become smokers thereafter.",
+        "output": "Une d\u00e9pendance de la nicotine a d\u00e9but\u00e9 g\u00e9n\u00e9ralement pendant l'adolescence et les jeunes enfants qui s'av\u00e8rent tout encore fum\u00e9es, sont susceptibles de \u00eatre fum\u00e9es avant d'\u00e9prouvent (m\u00eame la nicotine).",
+        "gold": "Les jeunes restent particuli\u00e8rement expos\u00e9s au risque de commencer \u00e0 fumer.",
+        "prefix": ""
+    },
+    {
+        "input": "To compare, among patients treated with either anticoagulants or antiplatelet agents, the risk of ischaemic strokes and major bleeding episodes.",
+        "output": "Il y a des diff\u00e9rences entre les patients trait\u00e9s par des anticoagulants ou antiplaquettaires, le risque d'AVC isch\u00e9mique et d'h\u00e9morragies majeures.",
+        "gold": "Des recherches suppl\u00e9mentaires sont n\u00e9cessaires.",
+        "prefix": ""
+    },
+    {
+        "input": "In IVF procedures, oocytes and sperm are routinely co-incubated overnight, which may expose oocytes and zygotes to suboptimal culture conditions with increased reactive oxygen species (ROS) produced by sperm in this long term culture.",
+        "output": "Une FIV pourrait expose les \u0153\u0153s et le sperm aux conditions sous-optimales avec am\u00e9lioration du risque de croissance aigu\u00eb.",
+        "gold": "Une telle co-incubation de longue dur\u00e9e avec le sperme pourrait exposer les ovocytes et les zygotes \u00e0 un milieu de culture sous-optimal en raison de niveaux \u00e9lev\u00e9s de d\u00e9riv\u00e9s r\u00e9actifs de l'oxyg\u00e8ne (DRO) produits par le sperme et d'autres produits du m\u00e9tabolisme.",
+        "prefix": ""
+    },
+    {
+        "input": "No new trials have been identified since the initial review.",
+        "output": "Aucune \u00e9tude n'a \u00e9t\u00e9 identifi\u00e9e \u00e0 l'partir de la revue initiale.",
+        "gold": "Les femmes ont \u00e9t\u00e9 environ 30\u00a0% de plus \u00e0 cesser d'utiliser l'\u00e9ponge que le diaphragme.",
+        "prefix": ""
+    },
+    {
+        "input": "We included five RCTs reporting 444 arterial cannulations in paediatric participants.",
+        "output": "Nous avons analys\u00e9 cinq essais contr\u00f4l\u00e9s randomis\u00e9s.",
+        "gold": "Nous avons trouv\u00e9 cinq \u00e9tudes admissibles : quatre comparant l'\u00e9chographie \u00e0 la palpation et une comparant l'\u00e9chographie \u00e0 l'assistance auditive Doppler.",
+        "prefix": ""
+    },
+    {
+        "input": "There were also no randomised trials that directly compared anticoagulants with antiplatelet drugs and the reported non-randomised studies did not show any evidence of a significant difference between the two.",
+        "output": "Nous avons trouv\u00e9 qu'il n'y avait pas suffisamment d'informations sur des effets de l'anticoagulant par rapport aux m\u00e9dicaments antiplaquettaires.",
+        "gold": "L'aspirine est susceptible d'\u00eatre aussi efficace et s\u00fbre que les anticoagulants chez ces patients.",
+        "prefix": ""
+    },
+    {
+        "input": "The outcomes of interest were CVD clinical events and CVD risk factors.",
+        "output": "Les r\u00e9sultats d'int\u00e9r\u00eat variaient de cinq \u00e9tudes et des \u00e9v\u00e8nements dans deux \u00e9tudes, mais les taux de risque \u00e9taient limit\u00e9s pour tous les crit\u00e8res de jugement.",
+        "gold": "Cette revue a \u00e9valu\u00e9 l'efficacit\u00e9 du tai-chi chez les adultes en bonne sant\u00e9 et ceux pr\u00e9sentant un risque \u00e9lev\u00e9 de MCV pour r\u00e9duire les d\u00e9c\u00e8s cardio-vasculaires, la mortalit\u00e9 toutes causes confondues, les param\u00e8tres non mortels (tels que les crises cardiaques, les AVC et les angines de poitrine) et les facteurs de risque cardio-vasculaire. Les caract\u00e9ristiques de l'\u00e9tude",
+        "prefix": ""
+    },
+    {
+        "input": "Two authors independently identified trials and collected data.",
+        "output": "Deux auteurs ont identifi\u00e9 les essais et enregistr\u00e9s les donn\u00e9es.",
+        "gold": "L'utilisation de deux auteurs de la revue pour identifier les \u00e9tudes et obtenir des informations diminue les erreurs dans l'obtention des informations.",
+        "prefix": ""
+    },
+    {
+        "input": "Overall, 16 trials (464 participants) provided data for meta-analysis of box training (248 participants) versus no supplementary training (216 participants).",
+        "output": "La recherche des donn\u00e9es \u00e9tait \u00e0 jour jusqu'\u00e0 la fin du troisi\u00e8me essai.",
+        "gold": "Les caract\u00e9ristiques de l'\u00e9tude Les essais comparaient la formation utilisant des mod\u00e8les en boite par rapport \u00e0 l'absence de formation (16 essais; 464 participants) ou par rapport \u00e0 diff\u00e9rents types de formation utilisant des mod\u00e8les en boite (14 essais; 382 participants) (certains essais et participants ont \u00e9t\u00e9 inclus dans les deux comparaisons, car les essais avaient compar\u00e9 diff\u00e9rentes m\u00e9thodes de formation utilisant des boites par rapport \u00e0 l'absence de formation). R\u00e9sultats principaux",
+        "prefix": ""
+    },
+    {
+        "input": "The results of this review are threatened by both risks of systematic errors (bias) and risks of random errors (play of chance).",
+        "output": "Nous avons examin\u00e9 les r\u00e9sultats de ces \u00e9tudes, de nombreux risques d'erreurs syst\u00e9matiques (biais) et des risques d'erreurs sur la s\u00e9lection.",
+        "gold": "En outre, nos r\u00e9sultats sont sujets aux risques d'erreurs al\u00e9atoires.",
+        "prefix": ""
+    },
+    {
+        "input": "The improved success rate at the first attempt may be more pronounced in infants and small children, in whom arterial line cannulation is more challenging than in older children.",
+        "output": "Les am\u00e9liorations de la premiere \u00e9tude peuvent \u00eatre encore plus persistent chez les nouveau-n\u00e9s et les enfants \u00e2g\u00e9s.",
+        "gold": "Nous avons constat\u00e9 que l'\u00e9chographie augmentait le taux de r\u00e9ussite \u00e0 la premi\u00e8re tentative de la cannulation et r\u00e9duisait la formation d'h\u00e9matomes.",
+        "prefix": ""
+    },
+    {
+        "input": "To evaluate the efficacy of medical and surgical therapies for children with intrinsic (primary) tracheomalacia.",
+        "output": "Il a \u00e9t\u00e9 \u00e9valu\u00e9 l'efficacit\u00e9 de l'utilisation de la reth\u00e9liomie chez les enfants atteintes de trach\u00e9omalacie interinsique (principale) des enfants atteints de trach\u00e9omalacie extrentrique (principal) ; trois \u00e9tudes), de trach\u00e9omalasie et de faible qualit\u00e9.",
+        "gold": "Nous avons voulu savoir lequel de ces traitements possibles \u00e9tait le plus efficace.",
+        "prefix": ""
+    },
+    {
+        "input": "To assess interventions used in the management of all types of melasma: epidermal, dermal, and mixed.",
+        "output": "Des essais cliniques pertinents sont n\u00e9cessaires : les agents dentaire, dermulaire, et mixtes.",
+        "gold": "Le m\u00e9lasma se divise en trois types\u00a0: \u00e9pidermique, dermique et mixte.",
+        "prefix": ""
+    },
+    {
+        "input": "The contraceptive vaginal sponge was developed as an alternative to the contraceptive diaphragm.",
+        "output": "Le pansement vaginal de bouche vaginale a \u00e9t\u00e9 d\u00e9velopp\u00e9 en comme une alternative \u00e0 un diaphragme contraceptive.",
+        "gold": "Il est \u00e9galement enduit de spermicide.",
+        "prefix": ""
+    },
+    {
+        "input": "Cardiovascular disease (CVD) is the most frequent cause of death in people with early stages of chronic kidney disease (CKD), for whom the absolute risk of cardiovascular events is similar to people who have existing coronary artery disease.",
+        "output": "L'AVC est une maladie r\u00e9nale fr\u00e9quente survenant par rapport \u00e0 celles dont les risques d'\u00e9v\u00e9nements cardiaques n'\u00e9taient similaires \u00e0 ceux qui re\u00e7oivent une maladie r\u00e9nale (MRC).",
+        "gold": "Nous avons constat\u00e9 que les statines r\u00e9duisaient les risques de d\u00e9c\u00e8s et d'\u00e9v\u00e9nements cardiaques majeurs de 20\u00a0%.",
+        "prefix": ""
+    },
+    {
+        "input": "Extracranial internal carotid artery dissection (eICAD) is a leading cause of stroke in younger patients.",
+        "output": "La dissection carotidienne interne (c'est-\u00e0-dire l'AVC externe (CII) est la premi\u00e8re cause du AVC chez les patients jeunes.",
+        "gold": "Ces caillots sanguins peuvent \u00e0 leur tour occlure l'art\u00e8re et entra\u00eener un accident vasculaire c\u00e9r\u00e9bral (AVC).",
+        "prefix": ""
+    },
+    {
+        "input": "The quality of the evidence was rated as high.",
+        "output": "La qualit\u00e9 des donn\u00e9es probantes est \u00e9lev\u00e9e.",
+        "gold": "Nous avons conclu qu'il existe des preuves de qualit\u00e9 \u00e9lev\u00e9e que l'utilisation d'aiguilles \u00e9mouss\u00e9es r\u00e9duit sensiblement le risque qu'ont les chirurgiens et leurs assistants de contracter des maladies infectieuses dans toute une gamme d'op\u00e9rations, de par la r\u00e9duction du nombre de blessures par piq\u00fbre d'aiguille.",
+        "prefix": ""
+    },
+    {
+        "input": "Cardiovascular disease (CVD) is the most frequent cause of death in people with early stages of chronic kidney disease (CKD), for whom the absolute risk of cardiovascular events is similar to people who have existing coronary artery disease.",
+        "output": "Cette maladie cardiovasculaire, qui provoque un suivi cardiaque \u00e0 l'heure actuelle d'une maladie r\u00e9nale chronique (MRC), est l'une des causes cardiovasculaires majeures de la maladie r\u00e9nale chronique (MRC).",
+        "gold": "Les adultes atteints d'insuffisance r\u00e9nale chronique (IRC) ont un risque \u00e9lev\u00e9 de d\u00e9velopper des complications de maladie cardiaque.On pense que le traitement par statines diminue le cholest\u00e9rol et r\u00e9duit les risques de d\u00e9c\u00e8s et de complications de maladie cardiaque.",
+        "prefix": ""
+    },
+    {
+        "input": "Randomised controlled trials (RCTs) of blunt versus sharp suture needles for preventing needle stick injuries among surgical staff measured as glove perforations or self-reported needle stick injuries.",
+        "output": "Nous avons \u00e9valu\u00e9 la gu\u00e9rison des l\u00e9sions aiguilles pour pr\u00e9venir la mort sur le site.",
+        "gold": "Une \u00e9tude \u00e9tait incluse s'il s'agissait d'un essai contr\u00f4l\u00e9 randomis\u00e9 (ECR) sur l'utilisation d'aiguilles de suture \u00e9mouss\u00e9es plut\u00f4t que pointues pour pr\u00e9venir les piq\u00fbres accidentelles chez le personnel chirurgical.",
+        "prefix": ""
+    },
+    {
+        "input": "The contraceptive vaginal sponge was developed as an alternative to the contraceptive diaphragm.",
+        "output": "Les chaussures vaginals sous tube d'avocre avaient \u00e9t\u00e9 d\u00e9velopp\u00e9es comme variante \u00e0 celui d'un dispositif contraceptif.",
+        "gold": "L'\u00e9ponge vaginale est un moyen de contraception qui s\u2019ins\u00e8re dans la fili\u00e8re pelvienne.",
+        "prefix": ""
+    },
+    {
+        "input": "We included all randomised clinical trials comparing box model trainers versus no training in surgical trainees with no prior laparoscopic experience.",
+        "output": "Nous avons trouv\u00e9 trois essais contr\u00f4l\u00e9s randomis\u00e9s, portant sur 8 490 participants.",
+        "gold": "Les caract\u00e9ristiques de l'\u00e9tude Les essais comparaient la formation utilisant des mod\u00e8les en boite par rapport \u00e0 l'absence de formation (16 essais; 464 participants) ou par rapport \u00e0 diff\u00e9rents types de formation utilisant des mod\u00e8les en boite (14 essais; 382 participants) (certains essais et participants ont \u00e9t\u00e9 inclus dans les deux comparaisons, car les essais avaient compar\u00e9 diff\u00e9rentes m\u00e9thodes de formation utilisant des boites par rapport \u00e0 l'absence de formation). R\u00e9sultats principaux",
+        "prefix": ""
+    },
+    {
+        "input": "Similarly, discontinuation rates at 12 months were higher with the sponge than with the diaphragm (Odds ratio 1.31; 95% CI 1.07 to 1.59).",
+        "output": "En r\u00e9sum\u00e9, les taux de de discidivant \u00e0 12 mois se sont av\u00e9r\u00e9s plus plus similaires.",
+        "gold": "Les femmes ont \u00e9t\u00e9 environ 30\u00a0% de plus \u00e0 cesser d'utiliser l'\u00e9ponge que le diaphragme.",
+        "prefix": ""
+    },
+    {
+        "input": "Meta-analysis showed that ultrasound guidance produces superior success rates at first attempt (risk ratio (RR) 1.96, 95% confidence interval (CI) 1.34 to 2.85, 404 catheters, four RCTs, moderate-quality evidence) and fewer complications, such as haematoma formation (RR 0.20, 95% CI 0.07 to 0.60, 222 catheters, two RCTs, moderate-quality evidence).",
+        "output": "Par rapport \u00e0 l'absence de donn\u00e9es probantes, nous avons examin\u00e9 l'utilisation des ultrasons que la distance d'origine du sommeil surviennent dans le groupe utilis\u00e9.",
+        "gold": "Nous avons constat\u00e9 que l'\u00e9chographie augmentait le taux de r\u00e9ussite \u00e0 la premi\u00e8re tentative de la cannulation et r\u00e9duisait la formation d'h\u00e9matomes.",
+        "prefix": ""
+    },
+    {
+        "input": "We identified 13 small trials (1520 participants randomised) and three ongoing trials.",
+        "output": "Nous avons identifi\u00e9 13 essais portant sur un total de 1450 participants et trois en cours dans le cours.",
+        "gold": "Nous avons trouv\u00e9 13 essais, aucun d'entre eux n'\u00e9tait d'assez grande taille ou ne durait suffisamment longtemps pour examiner les effets du tai-chi afin de r\u00e9duire les d\u00e9c\u00e8s cardio-vasculaires ou les param\u00e8tres non mortels.",
+        "prefix": ""
+    },
+    {
+        "input": "We included three trials (involving 371 participants) in the analysis of the effects of RIC on ischaemic stroke prevention.",
+        "output": "Les auteurs de la revue ont inclus un total de 371 participants.",
+        "gold": "Trois essais (portant sur 371 personnes) \u00e9taient admissibles \u00e0 notre analyse sur la pr\u00e9vention par le CID de l\u2019AVC isch\u00e9mique, et quatre autres essais (portant sur 364 personnes) \u00e9taient admissibles \u00e0 notre analyse sur le traitement par le CID de l'AVC isch\u00e9mique.",
+        "prefix": ""
+    },
+    {
+        "input": "In people with carotid stenosis undergoing carotid stenting, there was no significant difference in the incidence of ischaemic stroke between participants treated with RIC and non-RIC (RR 0.22, 95% CI 0.01 to 4.03; 1 trial, 189 participants, low-quality evidence); however the stroke severity (assessed by infarct volume) was significantly lower in participants treated with RIC (mean difference (MD) -0.17 mL, 95% CI -0.23 to -0.11; 1 trial, 189 participants, low-quality evidence).",
+        "output": "Chez les personnes pr\u00e9sentant des st\u00e9noses carotidiennes, aucune diff\u00e9rence n'a \u00e9t\u00e9 observ\u00e9e dans les deux essais.",
+        "gold": "Chez les personnes trait\u00e9es au moyen d'une endoproth\u00e8se (insertion d'un tube de m\u00e9tal ou de plastique) pour le r\u00e9tr\u00e9cissement des art\u00e8res du cou, le CID peut potentiellement r\u00e9duire la taille des nouvelles l\u00e9sions c\u00e9r\u00e9brales caus\u00e9es par une r\u00e9duction du d\u00e9bit sanguin.",
+        "prefix": ""
+    },
+    {
+        "input": "We rated the quality of evidence for all outcomes as moderate owing to imprecision due to wide confidence intervals, modest sample sizes and limited numbers of events.",
+        "output": "Nous avons \u00e9valu\u00e9 les donn\u00e9es probantes comme mod\u00e9r\u00e9es en raison d'un nombre limit\u00e9 d'\u00e9v\u00e9nements.",
+        "gold": "Nous avons jug\u00e9 la qualit\u00e9 des donn\u00e9es probantes comme \u00e9tant moyenne, principalement du fait d'un nombre limit\u00e9 d'\u00e9tudes.",
+        "prefix": ""
+    },
+    {
+        "input": "There was also considerable heterogeneity between studies, which meant that it was not possible to combine studies statistically for cardiovascular risk (I2 statistic for systolic blood pressure (SBP) was 96%, for diastolic blood pressure (DBP) 96%, for total cholesterol 96%, low-density lipoprotein-cholesterol (LDL-C) 95%, high-density lipoprotein-cholesterol (HDL-C) 98%, triglycerides 75%).",
+        "output": "Les taux de risque d'asthme \u00e9taient tous \u00e9lev\u00e9s, mais elles n'\u00e9taient pas clairement compar\u00e9es.",
+        "gold": "En raison du petit nombre d'\u00e9tudes \u00e0 court terme et de la variabilit\u00e9 entre elles, nous ne sommes pas parvenus \u00e0 d\u00e9terminer de fa\u00e7on concluante si oui ou non le tai-chi \u00e9tait b\u00e9n\u00e9fique pour r\u00e9duire le risque cardio-vasculaire chez les adultes en bonne sant\u00e9 et chez les adultes pr\u00e9sentant un risque accru de MCV, bien que des effets b\u00e9n\u00e9fiques pour les facteurs de risque cardio-vasculaire ont \u00e9t\u00e9 observ\u00e9s dans certaines \u00e9tudes.",
+        "prefix": ""
+    },
+    {
+        "input": "Extracranial internal carotid artery dissection (eICAD) is a leading cause of stroke in younger patients.",
+        "output": "La dissection carotidienne interne externe (IECE) est un r\u00e9sultat ind\u00e9sirable pour les jeunes patients \u00e2g\u00e9s de moins de 25 ans et peut \u00eatre des causes de AVC chez les nouveau-n\u00e9s ayant un AVC inf\u00e9rieur chez les nouveau-n\u00e9s.",
+        "gold": "La dissection peut \u00eatre caus\u00e9e par des l\u00e9sions au niveau du cou, mais peut parfois apparaitre sans raison apparente.",
+        "prefix": ""
+    },
+    {
+        "input": "Because the force needed for the blunt needles is higher, their use was rated as more difficult but still acceptable in five out of six studies.",
+        "output": "De m\u00eame, il n'y avait pas de preuve de diff\u00e9rence dans le niveau de cons\u00e9quences sur les n\u00e9cessit\u00e9s d'un traitement avec les membranes, mais un a \u00e9t\u00e9 consid\u00e9r\u00e9 comme comme plus difficult\u00e9, mais un traitement \u00e9tait acceptable dans cinq des six \u00e9tudes.",
+        "gold": "Bien que les chirurgiens aient signal\u00e9 qu'une plus grande force \u00e9tait n\u00e9cessaire pour les aiguilles \u00e9mouss\u00e9es, l'utilisation de ces aiguilles \u00e9tait encore consid\u00e9r\u00e9e comme acceptable dans cinq des six \u00e9tudes.",
+        "prefix": ""
+    },
+    {
+        "input": "Box model training versus no training: The meta-analysis showed that the time taken for task completion was significantly shorter in the box trainer group than the control group (8 trials; 249 participants; SMD -0.48 seconds; 95% CI -0.74 to -0.22).",
+        "output": "Les r\u00e9sultats n'ont montr\u00e9 aucune diff\u00e9rence dans la dur\u00e9e ayant \u00e9t\u00e9 r\u00e9alis\u00e9e en boite du groupe t\u00e9moin (le temps \u00e9tant donn\u00e9 que la formation a \u00e9t\u00e9 trouv\u00e9e dans le groupe de traitement par moteur par rapport au groupe t\u00e9moin).",
+        "gold": "La formation utilisant des mod\u00e8les en boite semble diminuer le temps n\u00e9cessaire \u00e0 r\u00e9aliser une t\u00e2che laparoscopique, am\u00e9liorer l'exactitude, r\u00e9duire les erreurs et am\u00e9liorer la performance globale.",
+        "prefix": ""
+    },
+    {
+        "input": "The contraceptive vaginal sponge was developed as an alternative to the contraceptive diaphragm.",
+        "output": "Les deux techniques de l'ut\u00e9rus du contraceptif ont \u00e9t\u00e9 d\u00e9termin\u00e9es comme une alternative au diaphragme contraceptif.",
+        "gold": "L'\u00e9ponge est molle et ronde et comporte une boucle qui permet de la retirer.",
+        "prefix": ""
+    },
+    {
+        "input": "It usually involves restricting blood flow to limbs and then releasing the ischaemic blood to promote a neuroprotective effect.",
+        "output": "Une pr\u00e9paration \u00e0 l'effort de lib\u00e9rer la circulation sanguine aux membres et la r\u00e9cidive du sang.",
+        "gold": "Le conditionnement isch\u00e9mique \u00e0 distance (CID) est une strat\u00e9gie visant \u00e0 prot\u00e9ger et \u00e0 pr\u00e9venir les l\u00e9sions des tissus c\u00e9r\u00e9braux en am\u00e9liorant leur capacit\u00e9 \u00e0 tol\u00e9rer un d\u00e9bit sanguin r\u00e9duit.",
+        "prefix": ""
+    },
+    {
+        "input": "The low quality evidence showed that brief co-incubation was associated with an increased ongoing pregnancy rate compared to the standard insemination protocol (pooled odds ratio (OR) 2.42, 95% confidence interval (CI) 1.55 to 3.77; P < 0.0001, I2 = 0%).",
+        "output": "Une co-incubation longue, entre l'intervention en m\u00eame heure, par rapport \u00e0 l'intervention de la pr\u00e9paration en s\u00e9mination, il y avait des donn\u00e9es probantes de faible qualit\u00e9, quelle que soit le protocole d'insemination standard.",
+        "gold": "Des donn\u00e9es de faible qualit\u00e9 ont montr\u00e9 une augmentation des taux de grossesses en cours et de grossesses cliniques avec l'utilisation du protocole de co-incubation br\u00e8ve.",
+        "prefix": ""
+    },
+    {
+        "input": "Randomised controlled trials (RCTs) of blunt versus sharp suture needles for preventing needle stick injuries among surgical staff measured as glove perforations or self-reported needle stick injuries.",
+        "output": "Les essais contr\u00f4l\u00e9s randomis\u00e9s (ECR) de m\u00eame calibre du tubillet par rapport aux n\u00e9cessit\u00e9s de l'a\u00e9ration, de l'annulation du chien, d'autres perforations et d'autres l\u00e9sions de la aiguilles chez les personnes atteintes du clampage de la aiguille avec l'acupuncture et d'autres l\u00e9sions du bord de la aiguille chez les infirmi\u00e8res dans les infirmi\u00e8res, et ces essais ont \u00e9valu\u00e9 les autres l\u00e9sions de l'aiguille en aucun des types de blessures des art\u00e8res du aiguilles (p\u00e9ritures, perforations d'aluations et autres blessures), pour pr\u00e9venir les l\u00e9sions du trou de la aiguille, de la perte de la moelle ou d'un caillot de bouchont ou de l\u00e9sions des aiguilles (par ex.",
+        "gold": "Nous avons examin\u00e9 la litt\u00e9rature pour \u00e9valuer l'effet pr\u00e9ventif des aiguilles \u00e9mouss\u00e9es, par rapport aux aiguilles pointues, sur les blessures par piq\u00fbre d'aiguille chez le personnel chirurgical.",
+        "prefix": ""
+    },
+    {
+        "input": "This review highlights the paucity of data and the need for more research in this area.",
+        "output": "La recherche a concern\u00e9 le manque d'informations et la n\u00e9cessit\u00e9 d'une recherche suppl\u00e9mentaire dans ce domaine, mais nous avons estim\u00e9 qu'il y a des r\u00e9sultats en faveur de plusieurs recherches dans ce domaine.",
+        "gold": "La revue met en \u00e9vidence l'absence de donn\u00e9es et le besoin de recherches suppl\u00e9mentaires.",
+        "prefix": ""
+    },
+    {
+        "input": "In acute ischaemic stroke, for people receiving intravenous thrombolysis, the rate of death or dependency was significantly increased by RIC treatment compared with non-RIC treatment (RR 2.34; 95% 1.19 to 4.61; 1 trial, 285 participants, low-quality evidence).",
+        "output": "Par rapport au traitement non RIC, la thrombolyse intraveineuse a \u00e9t\u00e9 augment\u00e9e dans les groupes r\u00e9ceptifs par les st\u00e9ro\u00efdes.",
+        "gold": "Chez les personnes victimes d\u2019un AVC isch\u00e9mique aigu (o\u00f9 les sympt\u00f4mes n'\u00e9taient apparus que quelques heures auparavant) et ayant re\u00e7u des m\u00e9dicaments qui dissolvent les caillots, nous avons constat\u00e9 que le CID pouvait potentiellement augmenter le risque de d\u00e9c\u00e8s ou de d\u00e9pendance (besoin d\u2019\u00eatre aid\u00e9 par autrui).",
+        "prefix": ""
+    },
+    {
+        "input": "No studies reported on cardiovascular mortality, all-cause mortality or non-fatal events as most studies were short term (all studies had follow-up of one year or less).",
+        "output": "\u00c0 court terme, toutes les \u00e9tudes avaient fait \u00e9tat d'un suivi de un an ou moins et la plupart avaient \u00e9t\u00e9 publi\u00e9es sur une dur\u00e9e de un an ou moins.",
+        "gold": "Aucune des \u00e9tudes incluses n'a rendu compte des effets ind\u00e9sirables.",
+        "prefix": ""
+    },
+    {
+        "input": "Surgeons and their assistants are especially at risk of exposure to blood due to glove perforations and needle stick injuries during operations.",
+        "output": "Les chirurgiens sp\u00e9cialistes et leurs aidants sont certains au risque de d\u00e9velopper une exposition \u00e0 la coagulation du corps d\u00fb aux perforations de gants et des l\u00e9sions de la sonde pendant l'op\u00e9ration.",
+        "gold": "Les chirurgiens et leurs assistants sont particuli\u00e8rement \u00e0 risque de piq\u00fbres accidentelles pendant les interventions chirurgicales.",
+        "prefix": ""
+    },
+    {
+        "input": "The two included studies employed multi-component community-based interventions tailored to the specific cultural aspects of the population and were based in Native American populations (1505 subjects in total).",
+        "output": "Dans l'ensemble, les \u00e9tudes sur l'utilisation de mod\u00e8les de communaut\u00e9 utilisent des interventions d'environnement sp\u00e9cifique \u00e0 des aspects de la population des Pays-Bas et ont \u00e9t\u00e9 r\u00e9alis\u00e9es dans des r\u00e9gions \u00e0 laquelle se concentrent des populations ethniques \u00e0 base d'un groupe t\u00e9moin ; mais se sont fond\u00e9es sur des populations \u00e0 l'aide de diff\u00e9rentes m\u00e9thodes.",
+        "gold": "L'information issue des deux \u00e9tudes incluses dans cette revue (1\u00a0505 participants au total, dans les communaut\u00e9s am\u00e9rindiennes) ne permet pas de d\u00e9terminer si les programmes de pr\u00e9vention du tabagisme dans les populations autochtones parviennent \u00e0 dissuader les jeunes autochtones de fumer ou de consommer du tabac sans fum\u00e9e.",
+        "prefix": ""
+    },
+    {
+        "input": "There were also no randomised trials that directly compared anticoagulants with antiplatelet drugs and the reported non-randomised studies did not show any evidence of a significant difference between the two.",
+        "output": "Nous n'avons \u00e9t\u00e9 inclus dans les essais a comparant les anticoagulants \u00e0 un m\u00e9dicament antiplaquettaire et les \u00e9tudes non randomis\u00e9es n'ont pas montr\u00e9 de donn\u00e9es concluantes de une diff\u00e9rence significative entre les deux.",
+        "gold": "Il n'y avait aucune preuve que les anticoagulants ont \u00e9t\u00e9 plus efficaces que l'aspirine.",
+        "prefix": ""
+    },
+    {
+        "input": "However, the impact of this modality on trainees with no prior laparoscopic experience is unknown.",
+        "output": "Par cons\u00e9quent, le risque d'un risque d'un \u00e0 une exp\u00e9rience laparoscopique pr\u00e9coce n'est pas clair.",
+        "gold": "L'impact de la formation utilisant des mod\u00e8les en boite pour les stagiaires en chirurgie sans exp\u00e9rience laparoscopique pr\u00e9alable est inconnu.",
+        "prefix": ""
+    },
+    {
+        "input": "The adverse events most commonly reported were mild and transient such as skin irritation, itching, burning, and stinging.",
+        "output": "Les effets ind\u00e9sirables les plus fr\u00e9quemment rapport\u00e9s au pied \u00e9taient l\u00e9gers et transitoires, tels que l'irritation cutan\u00e9e, le fum et le seul sensation des \u00e9tourdissements.",
+        "gold": "La cr\u00e8me associant 3 produits \u00e9tait significativement plus efficace pour l\u2019'\u00e9claircissement du m\u00e9lasma, comparativement \u00e0 l'hydroquinone seule ou des cr\u00e8mes associant deux produits comme la tr\u00e9tino\u00efne et l'hydroquinone, la tr\u00e9tino\u00efne et l'ac\u00e9tonide de fluocinolone ou encore l'hydroquinone et l'ac\u00e9tonide de fluocinolone.",
+        "prefix": ""
+    },
+    {
+        "input": "In people with carotid stenosis undergoing carotid stenting, there was no significant difference in the incidence of ischaemic stroke between participants treated with RIC and non-RIC (RR 0.22, 95% CI 0.01 to 4.03; 1 trial, 189 participants, low-quality evidence); however the stroke severity (assessed by infarct volume) was significantly lower in participants treated with RIC (mean difference (MD) -0.17 mL, 95% CI -0.23 to -0.11; 1 trial, 189 participants, low-quality evidence).",
+        "output": "Dans la comparaison avec l'absence de dispositifs ou l'absence de r\u00e9animation aurait \u00e9t\u00e9 r\u00e9duite, mais elle n'a pas rapport\u00e9 de diff\u00e9rence entre les groupes en la cavit\u00e9 r\u00e9nale en termes de gravit\u00e9 des \u00e9pisodes de AVC isch\u00e9mique et de gravit\u00e9 des AVCs chez les personnes souffrant de Stenose carotidienne.",
+        "gold": "Cependant, l\u2019effet du CID sur les crit\u00e8res de jugement cliniques (AVC et d\u00e9c\u00e8s) \u00e9tait impr\u00e9cis.",
+        "prefix": ""
+    },
+    {
+        "input": "There were no significant differences in the composite score between the intervention and control groups in any of the remaining comparisons.",
+        "output": "Il n'y avait pas de diff\u00e9rence significative entre les groupes de contr\u00f4le et le groupe t\u00e9moin entre l'intervention et le contr\u00f4le, dans aucun des \u00e9tudes reste \u00e0 jour.",
+        "gold": "Il ne semble pas y avoir de diff\u00e9rences significatives dans les diff\u00e9rentes m\u00e9thodes de formation utilisant des mod\u00e8les en boite.",
+        "prefix": ""
+    },
+    {
+        "input": "We included four trials (involving 364 participants) in the analysis of the effects of RIC on ischaemic stroke treatment.",
+        "output": "Les auteurs ont identifi\u00e9 trois \u00e9tudes (un total de 364 participants) pour les autres traitements d'AVC isch\u00e9mique ou inconnus.",
+        "gold": "Trois essais (portant sur 371 personnes) \u00e9taient admissibles \u00e0 notre analyse sur la pr\u00e9vention par le CID de l\u2019AVC isch\u00e9mique, et quatre autres essais (portant sur 364 personnes) \u00e9taient admissibles \u00e0 notre analyse sur le traitement par le CID de l'AVC isch\u00e9mique.",
+        "prefix": ""
+    },
+    {
+        "input": "Such trials should assess the impacts of box model training on surgical skills in both the short and long term, as well as clinical outcomes when the trainee becomes competent to operate on patients.",
+        "output": "Il y a des essais portant sur des femmes atteintes de rechute, mais ces essais devraient \u00e9valuer les effets des \u00e9tudes sur les b\u00e9n\u00e9fices du mod\u00e8le d'un essai en boite sur les activit\u00e9s de la chirurgie \u00e0 court et \u00e0 long terme, bien que les \u00e9v\u00e9nements r\u00e9sultats cliniques lorsque le formation du mod\u00e8le peut am\u00e9liorer les pratiques chirurgicales, dont \u00e0 court et long terme, comme les avantages et les r\u00e9sultats des stagiaires, de la capacit\u00e9 des infirmiers de la chirurgie, de l'impulsion.",
+        "gold": "Ceci sugg\u00e8re que la formation utilisant des mod\u00e8les en boite am\u00e9liore les comp\u00e9tences techniques de stagiaires en chirurgie sans exp\u00e9rience de la chirurgie laparoscopique.",
+        "prefix": ""
+    },
+    {
+        "input": "This review has provided evidence that brief co-incubation of sperm and oocytes may improve the ongoing pregnancy and clinical pregnancy rates for infertile women undergoing IVF cycles.",
+        "output": "Ceux-ci avaient conduit une forte co-incubation du sperme et des \u0153cyst\u00e9s pour les femmes infertiles ayant subi le FIV.",
+        "gold": "Des donn\u00e9es de faible qualit\u00e9 ont montr\u00e9 une augmentation des taux de grossesses en cours et de grossesses cliniques avec l'utilisation du protocole de co-incubation br\u00e8ve.",
+        "prefix": ""
+    },
+    {
+        "input": "We also found improved success rates within two attempts (RR 1.78, 95% CI 1.25 to 2.51, 134 catheters, two RCTs, moderate-quality evidence) with ultrasound guidance compared with other types of guidance.",
+        "output": "La plupart des donn\u00e9es probantes \u00e9taient de qualit\u00e9 mod\u00e9r\u00e9e (donn\u00e9es probantes de faible qualit\u00e9), mais nous avons analys\u00e9 les taux de b\u00e9n\u00e9fices dans les deux essais \u00e0 l'aide d'une seule documentation avec la direction d'\u00e9chographie en rapport \u00e0 l'absence de guider \u00e0 une r\u00e9action (donn\u00e9es probantes de faible qualit\u00e9).",
+        "gold": "L'\u00e9chographie a \u00e9galement augment\u00e9 le taux de r\u00e9ussite en deux tentatives.",
+        "prefix": ""
+    },
+    {
+        "input": "To determine the effectiveness of blunt needles compared to sharp needles for preventing percutaneous exposure incidents among surgical staff.",
+        "output": "Un \u00e9l\u00e9ment de revue \u00e9prouv\u00e9 ne pr\u00e9vienne pas l'innocuit\u00e9 des n\u00e9cessit\u00e9s de br\u00fblures par rapport \u00e0 les n\u00e9cessitences de l'oreille pour pr\u00e9venir les incidents percutan\u00e9s chez les patients chirurgicaux.",
+        "gold": "L'utilisation d'aiguilles \u00e9mouss\u00e9es est propos\u00e9e afin de pr\u00e9venir les blessures par piq\u00fbre d'aiguille.",
+        "prefix": ""
+    },
+    {
+        "input": "We found low-quality evidence that RIC may reduce the risk of recurrent stroke in participants with intracerebral artery stenosis and reduce stroke severity in participants undergoing carotid stenting, but it may increase death or dependence in participants with acute ischaemic stroke who are undergoing intravenous thrombolysis.",
+        "output": "Les r\u00e9sultats avaient pour objectif d'\u00e9valuer les avantages du remplacement du pontage r\u00e9cidivant, mais une diminution de la gravit\u00e9 du AVC serait plus efficace en ce qui consisterait \u00e0 r\u00e9duire le risque de biais, mais cela pourrait augmenter le risque de d\u00e9c\u00e8s ou ded\u00e9pendance dans des patients souffrant d'AVC isch\u00e9mique (AVC isch\u00e9mique aigu).",
+        "gold": "Des preuves de faible qualit\u00e9 sugg\u00e8rent que le CID peut potentiellement aider \u00e0 pr\u00e9venir les AVC r\u00e9cidivants des personnes dont les art\u00e8res c\u00e9r\u00e9brales sont r\u00e9tr\u00e9cies et peut possiblement augmenter la mortalit\u00e9 ou la d\u00e9pendance des personnes victimes d\u2019un AVC isch\u00e9mique aigu qui ont re\u00e7u des m\u00e9dicaments pour dissoudre le caillot.",
+        "prefix": ""
+    },
+    {
+        "input": "Cardiovascular disease (CVD) is the most frequent cause of death in people with early stages of chronic kidney disease (CKD), for whom the absolute risk of cardiovascular events is similar to people who have existing coronary artery disease.",
+        "output": "Le cancer de la Cardiovasculaire (MRC) est l'une des types de personnes pr\u00e9sentant un stade pr\u00e9coce d'une maladie r\u00e9nale chronique (MRC), pour les personnes ayant des stades pr\u00e9coce de la maladie r\u00e9nale chronique (MRC), chez celles qui pr\u00e9sentent des l\u00e9sions art\u00e9rielles cardiaques (par ex.",
+        "gold": "Chez ces personnes, le traitement par statines r\u00e9duit les risques de crise cardiaque de moiti\u00e9.",
+        "prefix": ""
+    },
+    {
+        "input": "None of the included trials reported on adverse events, costs or occurrence of type 2 diabetes.",
+        "output": "Aucun des essais n'a rapport\u00e9 des effets secondaires, les co\u00fbts ou les obstructions de la maladie de type 2 et les crit\u00e8res d'\u00e9valuation n'est rapport\u00e9 sur les effets ind\u00e9sirables, les co\u00fbts ou les effets ind\u00e9sirables.",
+        "gold": "Aucune des \u00e9tudes incluses n'a rendu compte des effets ind\u00e9sirables.",
+        "prefix": ""
+    },
+    {
+        "input": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, and Science Citation Index Expanded to May 2013.",
+        "output": "Les \u00e9tudes ont \u00e9t\u00e9 publi\u00e9es le 28 mai 2013.",
+        "gold": "Deux auteurs de la revue ont consult\u00e9 la litt\u00e9rature m\u00e9dicale disponible jusqu'en mai 2013 et obtenu les informations des essais identifi\u00e9s.",
+        "prefix": ""
+    },
+    {
+        "input": "Similarly, our results suggest, but do not confirm, the possibility of a positive influence of expertise in the use of ultrasound on the first attempt success rate.",
+        "output": "Nous avons consid\u00e9r\u00e9 que, mais n'avons pas conclu que l'acupuncture a un impact positif sur le taux de l'\u00e9chec sexuel dans l'utilisation d'une chirurgie ont sur la premi\u00e8re approche d'objectif de l'\u00e9tude sur le taux d'\u00e9chec et la possibilit\u00e9 d'une influence positive des expertises dans les ultrasons sur le taux de r\u00e9ussite ou l'objectif d'obstruction du fait du diagnostic des op\u00e9rations.",
+        "gold": "Il est \u00e9galement probable que l'\u00e9chographie soit plus utile si le praticien est exp\u00e9riment\u00e9 dans son utilisation.",
+        "prefix": ""
+    },
+    {
+        "input": "In April 2013, we searched the computerized databases MEDLINE, POPLINE, LILACS, CENTRAL, ClinicalTrials.gov and ICTRP.",
+        "output": "Nous avons effectu\u00e9 des recherches dans la litt\u00e9rature sur la litt\u00e9rature, en avril 2013.",
+        "gold": "Nous avons effectu\u00e9 des recherches informatis\u00e9es pour trouver des essais randomis\u00e9s comparant l'\u00e9ponge au diaphragme.",
+        "prefix": ""
+    },
+    {
+        "input": "We searched MEDLINE and EMBASE (until May 2011), CENTRAL, NHSEED, Science Citation Index Expanded, CINAHL, Nioshtic, CISdoc, PsycINFO, and LILACS (until September 2010).",
+        "output": "La litt\u00e9rature incluait des recherches jusqu'en mai 2011, la revue a \u00e9t\u00e9 effectu\u00e9e jusqu'au septi\u00e8me septembre 2010 et nous avons effectu\u00e9 des recherches dans les bases de donn\u00e9es publi\u00e9es.",
+        "gold": "Nous avons recherch\u00e9 dans plusieurs bases de donn\u00e9es m\u00e9dicales (jusqu'\u00e0 mai 2011).",
+        "prefix": ""
+    },
+    {
+        "input": "Eight RCTs with 733 women in total that compared brief co-incubation and the standard insemination protocol were included.",
+        "output": "Deux essais portant sur 733 femmes ont compar\u00e9 la co-incubation et le protocole d'insemination standard \u00e9taient inclus.",
+        "gold": "Cette revue a identifi\u00e9 huit essais contr\u00f4l\u00e9s randomis\u00e9s impliquant 733\u00a0femmes.",
+        "prefix": ""
+    },
+    {
+        "input": "Smoking prevalence in Indigenous youth is twice that of the non-Indigenous population, with tobacco experimentation commencing at an early age.",
+        "output": "La pr\u00e9valence du tabagisme chez les jeunes enfants Indeus est deux fois par deux que de la population non-indig\u00e8ne, qui incluent l'\u00e9tude au tabac commenc\u00e9e \u00e0 un stade pr\u00e9coce.",
+        "gold": "Dans les populations autochtones, le nombre de fumeurs n'a pas diminu\u00e9 comme dans les populations environnantes.",
+        "prefix": ""
+    },
+    {
+        "input": "They can be grouped into those including a bleaching agent such as hydroquinone, triple-combination creams (hydroquinone, tretinoin, and fluocinolone acetonide), and combination therapies (hydroquinone cream and glycolic acid peels), as well as less conventional therapies including rucinol, vitamin C iontophoresis, and skin-lightening complexes like Thiospot and Gigawhite.",
+        "output": "Les injections de chevauchement peuvent \u00eatre un type d'agents de biais comme le quinonne, le traitement avec la tretinoine et les peels glycoliques, telles que le remplacement et la croissance du corps avec le vitamine C \u00e0 action prolong\u00e9e, tandis que les th\u00e9rapies combin\u00e9es peuvent \u00eatre diff\u00e9rentes, aussi l'hydroquinone, le tretinoine, la fluocinoloneac\u00e9tinol et le rubocinol.",
+        "gold": "Certains traitements int\u00e8grent une approche combin\u00e9e comme une cr\u00e8me associant trois produits (contenant de l'hydroquinone, de la tr\u00e9tino\u00efne et un st\u00e9ro\u00efde).",
+        "prefix": ""
+    },
+    {
+        "input": "A similar pattern was seen for DBP: three trials found a reduction in DBP (reductions ranged from -12.2 mmHg (95% CI -15.8 to -8.7) to -4.43 mmHg (95% CI -7.14 to -1.72)) and three trials found no clear evidence of a difference, however again with wide CIs.",
+        "output": "Nous avons trouv\u00e9 trois essais portant sur une r\u00e9duction du BPCO et trois essais n'ont trouv\u00e9 aucune preuve solide de la diff\u00e9rence de l'AMP.",
+        "gold": "En raison du petit nombre d'\u00e9tudes \u00e0 court terme et de la variabilit\u00e9 entre elles, nous ne sommes pas parvenus \u00e0 d\u00e9terminer de fa\u00e7on concluante si oui ou non le tai-chi \u00e9tait b\u00e9n\u00e9fique pour r\u00e9duire le risque cardio-vasculaire chez les adultes en bonne sant\u00e9 et chez les adultes pr\u00e9sentant un risque accru de MCV, bien que des effets b\u00e9n\u00e9fiques pour les facteurs de risque cardio-vasculaire ont \u00e9t\u00e9 observ\u00e9s dans certaines \u00e9tudes.",
+        "prefix": ""
+    },
+    {
+        "input": "To assess interventions used in the management of all types of melasma: epidermal, dermal, and mixed.",
+        "output": "D'autres \u00e9tudes sont n\u00e9cessaires pour la prise en charge des types de m\u00e9lasome diff\u00e9rents : des m\u00e9tastases, dentaires et mixtes.",
+        "gold": "Le m\u00e9lasma dermique se caract\u00e9rise par une augmentation de la pigmentation de la peau au niveau de la deuxi\u00e8me couche de la peau (le derme).",
+        "prefix": ""
+    },
+    {
+        "input": "Extracranial internal carotid artery dissection (eICAD) is a leading cause of stroke in younger patients.",
+        "output": "La dissection carotidienne interne interne du canal carotidien est une principale cause de AVC chez les patients plus jeunes.",
+        "gold": "La dissection de l'art\u00e8re carotide d\u00e9signe une d\u00e9chirure dans la paroi de l'un des principaux vaisseaux sanguins transportant le sang vers le cerveau.",
+        "prefix": ""
+    },
+    {
+        "input": "Thiospot was more effective than placebo (SMD -2.61, 95% CI -3.76 to -1.47).",
+        "output": "La thiospots \u00e9tait plus efficace que le placebo.",
+        "gold": "La cr\u00e8me associant 3 produits \u00e9tait significativement plus efficace pour l\u2019'\u00e9claircissement du m\u00e9lasma, comparativement \u00e0 l'hydroquinone seule ou des cr\u00e8mes associant deux produits comme la tr\u00e9tino\u00efne et l'hydroquinone, la tr\u00e9tino\u00efne et l'ac\u00e9tonide de fluocinolone ou encore l'hydroquinone et l'ac\u00e9tonide de fluocinolone.",
+        "prefix": ""
+    },
+    {
+        "input": "We also included trials comparing different methods of box model training.",
+        "output": "Nous n'avons identifi\u00e9 aucune m\u00e9thodologie de la combinaison de la moelle \u00e0 l'essai.",
+        "gold": "Les caract\u00e9ristiques de l'\u00e9tude Les essais comparaient la formation utilisant des mod\u00e8les en boite par rapport \u00e0 l'absence de formation (16 essais; 464 participants) ou par rapport \u00e0 diff\u00e9rents types de formation utilisant des mod\u00e8les en boite (14 essais; 382 participants) (certains essais et participants ont \u00e9t\u00e9 inclus dans les deux comparaisons, car les essais avaient compar\u00e9 diff\u00e9rentes m\u00e9thodes de formation utilisant des boites par rapport \u00e0 l'absence de formation). R\u00e9sultats principaux",
+        "prefix": ""
+    },
+    {
+        "input": "As an attempt to avoid possible detrimental effects on the oocytes from long exposure to sperm, the brief co-incubation insemination protocol was developed.",
+        "output": "Le protocole de co-incubation en voie de co-incubation a \u00e9t\u00e9 d\u00e9velopp\u00e9 et le protocole de co-incubation tr\u00e8s pr\u00e9cise est d\u00e9velopp\u00e9.",
+        "gold": "La m\u00e9thode de co-incubation br\u00e8ve utilis\u00e9e en FIV r\u00e9duit le temps de co-incubation des ovocytes et du sperme \u00e0 une dur\u00e9e de une \u00e0 quatre heures.",
+        "prefix": ""
+    },
+    {
+        "input": "Cardiovascular disease (CVD) is the most frequent cause of death in people with early stages of chronic kidney disease (CKD), for whom the absolute risk of cardiovascular events is similar to people who have existing coronary artery disease.",
+        "output": "La maladie cardiovasculaire (MRC) (un type de maladie r\u00e9nale chronique (MRC), provoque des d\u00e9c\u00e8s, mais seuls \u00e9v\u00e9nements cliniques (AVC) sont comparables \u00e0 des personnes souffrant de la maladie r\u00e9nale chronique (MRC).",
+        "gold": "Bien que l'utilisation des statines n'ait pas r\u00e9duit clairement les risques de progression de l'insuffisance r\u00e9nale, elles peuvent \u00eatre recommand\u00e9es pour r\u00e9duire les risques de d\u00e9c\u00e8s et d'\u00e9v\u00e9nements cardiaques chez les personnes qui sont aux premiers stades de l'insuffisance r\u00e9nale.",
+        "prefix": ""
+    },
+    {
+        "input": "We included randomized controlled trials comparing the vaginal contraceptive sponge (Today; Collatex) with any diaphragm used with nonoxynol-9 to prevent pregnancy.",
+        "output": "Nous avons examin\u00e9 les essais portant sur la contraception perop\u00e9ratoire (Today, collatex) avec la pose du diaphragme ayant utilis\u00e9 un nonoxynol (9 a) pour pr\u00e9venir la grossesse.",
+        "gold": "La pr\u00e9sente revue comparait le degr\u00e9 d'efficacit\u00e9 de ces deux m\u00e9thodes en termes de pr\u00e9vention de la grossesse.",
+        "prefix": ""
+    },
+    {
+        "input": "The quality of studies evaluating melasma treatments was generally poor and available treatments inadequate.",
+        "output": "Les diff\u00e9rents traitements du m\u00e9lanome \u00e9taient de qualit\u00e9 mod\u00e9r\u00e9e et les r\u00e9sultats \u00e9taient insuffisants, bien que les traitements inclus n'\u00e9taient pas suffisamment faibles et les traitements \u00e9taient bien d'environ une fois tr\u00e8s r\u00e9el.",
+        "gold": "La cr\u00e8me associant 3 produits \u00e9tait significativement plus efficace pour l\u2019'\u00e9claircissement du m\u00e9lasma, comparativement \u00e0 l'hydroquinone seule ou des cr\u00e8mes associant deux produits comme la tr\u00e9tino\u00efne et l'hydroquinone, la tr\u00e9tino\u00efne et l'ac\u00e9tonide de fluocinolone ou encore l'hydroquinone et l'ac\u00e9tonide de fluocinolone.",
+        "prefix": ""
+    },
+    {
+        "input": "To determine the effectiveness of blunt needles compared to sharp needles for preventing percutaneous exposure incidents among surgical staff.",
+        "output": "Dans l'ensemble, le plan de l'op\u00e9ration a \u00e9t\u00e9 trouv\u00e9 dans cette revue.",
+        "gold": "Nous avons examin\u00e9 la litt\u00e9rature pour \u00e9valuer l'effet pr\u00e9ventif des aiguilles \u00e9mouss\u00e9es, par rapport aux aiguilles pointues, sur les blessures par piq\u00fbre d'aiguille chez le personnel chirurgical.",
+        "prefix": ""
+    },
+    {
+        "input": "Our results suggest, but do not confirm, that a possible advantage of ultrasound guidance for the first attempt success rate over other techniques is more pronounced in infants and small children than in older children.",
+        "output": "On pense que le b\u00e9n\u00e9fice d'une ventilation par ultrasons \u00e9tait plus positif chez les enfants et les jeunes enfants.",
+        "gold": "Il est probable que l'\u00e9chographie soit plus utile pour les nourrissons et les jeunes enfants que pour les enfants plus \u00e2g\u00e9s.",
+        "prefix": ""
+    },
+    {
+        "input": "The impacts of this decreased time on patients and healthcare funders in terms of improved outcomes or decreased costs are unknown.",
+        "output": "Les effets de cette p\u00e9riode de temps \u00e0 l'aide des familles et des prestataires de sant\u00e9 sont inconnus.",
+        "gold": "L'impact de l'am\u00e9lioration des comp\u00e9tences chirurgicales pour les patients ou les bailleurs des soins de sant\u00e9 en termes d'am\u00e9lioration de la sant\u00e9 ou de co\u00fbts r\u00e9duits est inconnu.",
+        "prefix": ""
+    },
+    {
+        "input": "To compare, among patients treated with either anticoagulants or antiplatelet agents, the risk of ischaemic strokes and major bleeding episodes.",
+        "output": "Les comparaisons de traitements \u00e0 l'aide d'agents anticoagulants ou antiplaquettaires, \u00e9v\u00e9nements saignements chez les patients trait\u00e9s avec un des inhibiteurs des anticoagulants ou des agents antiplaquettaires, les risques d'AVC isch\u00e9mique et d'\u00e9pisodes d'h\u00e9morragie majeure avec des agents antiplaquettaires et antiplaquettaires, les effets secondaires majeurs chez les patients trait\u00e9s avec des antiagr\u00e9gants ou antiplaquettaires (tels que les injections de plaques ou les antiplaquettaires) et les \u00e9pisodes de saignements majeurs.",
+        "gold": "Il n'y avait aucune preuve que les anticoagulants ont \u00e9t\u00e9 plus efficaces que l'aspirine.",
+        "prefix": ""
+    },
+    {
+        "input": "We searched the following electronic databases: the Cochrane Central\u00a0Register\u00a0of Controlled Trials (CENTRAL) (Issue 11, 2013);\u00a0MEDLINE (Ovid) (1946 to November week 3, 2013); EMBASE Classic + EMBASE (Ovid) (1947 to 6 December 2013); Web of Science (Thomson Reuters) (1970 to 6 December 2013); PsycINFO (Ovid) (1806 to December week 1, 2013); Database of Abstracts of Reviews of Effects (DARE);\u00a0Health Technology\u00a0Assessment Database and Health Economics Evaluations Database (Issue 4, 2013).",
+        "output": "\u00c0 l'aide du registre Cochrane de l'essai, nous avons recherch\u00e9 des \u00e9tudes de petite taille : avec un suivi quotidien.",
+        "gold": "Nous avons effectu\u00e9 des recherches dans des bases de donn\u00e9es scientifiques pour les essais contr\u00f4l\u00e9s randomis\u00e9s (essais cliniques o\u00f9 les personnes sont assign\u00e9es au hasard \u00e0 l'un des deux ou \u00e0 plusieurs traitements) qui examinent les effets du tai-chi chez des adultes pr\u00e9sentant un risque \u00e9lev\u00e9 de d\u00e9veloppement de MCV.",
+        "prefix": ""
+    },
+    {
+        "input": "Allergic-type reactions were more common with the sponge, although discontinuation for discomfort differed in the two trials.",
+        "output": "Les r\u00e9actions allergiques \u00e9taient plus fr\u00e9quentes dans les autres \u00e9tudes par voie basse que dans les deux essais.",
+        "gold": "Cependant, l'inconfort a motiv\u00e9 le m\u00eame nombre d\u2019abandons de la m\u00e9thode contraceptive en question dans les deux groupes.",
+        "prefix": ""
+    },
+    {
+        "input": "In IVF procedures, oocytes and sperm are routinely co-incubated overnight, which may expose oocytes and zygotes to suboptimal culture conditions with increased reactive oxygen species (ROS) produced by sperm in this long term culture.",
+        "output": "Deux essais ont constat\u00e9 que les oocytes et les spermatozo\u00efdes peuvent exposer les \u0153strog\u00e8nes et le sperm \u00e0 des conditions de culturisme de leur organisme sous-optimale.",
+        "gold": "Il est possible que le raccourcissement du temps de co-incubation des ovocytes et du sperme puisse am\u00e9liorer les r\u00e9sultats de la FIV en r\u00e9duisant les effets n\u00e9fastes des DRO sur les zygotes et sur la qualit\u00e9 des embryons.",
+        "prefix": ""
+    },
+    {
+        "input": "In people with acute ischaemic stroke, there was no significant difference between RIC and non-RIC for reducing stroke severity as assessed by the National Institutes of Health Stroke Scale score and the final infarct volume (standardised mean difference (SMD) -0.24 mL, 95% CI -1.02 to 0.54; 2 trials, 175 participants, very low quality evidence).",
+        "output": "La SEP r\u00e9duisait la gravit\u00e9 du AVC isch\u00e9mique, mais les essais confondus avaient des preuves de tr\u00e8s faible qualit\u00e9.",
+        "gold": "Nous n'avons trouv\u00e9 aucune diff\u00e9rence significative dans la taille de l\u2019AVC final.",
+        "prefix": ""
+    },
+    {
+        "input": "The rates were 24.5 for the sponge and 10.9 for the diaphragm in the UK trial.",
+        "output": "Le diaphragme \u00e9tait de 25 % pour le groupe sous filet et 10,9 pour le groupe sous diaphragme dans l'essai du Royaume-Uni.",
+        "gold": "Sur 100 femmes utilisant l'\u00e9ponge pendant un an, 25 sont devenues enceintes, contre 11 utilisatrices de diaphragme.",
+        "prefix": ""
+    },
+    {
+        "input": "It is unlikely that future research will change this conclusion.",
+        "output": "Dans l'ensemble, nous avons fait \u00e9tat de ce crit\u00e8re de jugement.",
+        "gold": "Il est peu probable que des recherches futures modifient cette conclusion.",
+        "prefix": ""
+    },
+    {
+        "input": "We analysed the effects of RIC on preventing and treating ischaemic stroke respectively.",
+        "output": "Les effets des r\u00e9sultats sugg\u00e9raient que le CI a \u00e9t\u00e9 d\u00e9montr\u00e9 comme efficace et en cas de AVC isch\u00e9mique et incertain.",
+        "gold": "Des \u00e9tudes ont sugg\u00e9r\u00e9 que le CID pourrait avoir des effets b\u00e9n\u00e9fiques sur la pr\u00e9vention et le traitement de l'AVC isch\u00e9mique.",
+        "prefix": ""
+    },
+    {
+        "input": "For the initial review, we searched the reference lists of relevant articles and book chapters.",
+        "output": "Nous avons recherch\u00e9 des articles pertinentes et des \u00e9tudes pertinentes avec un total de 3 796 femmes.",
+        "gold": "Par ailleurs, nous avons effectu\u00e9 des recherches dans les listes bibliographiques et les chapitres de livres pertinents pour trouver des essais.",
+        "prefix": ""
+    },
+    {
+        "input": "Cardiovascular disease (CVD) is the most frequent cause of death in people with early stages of chronic kidney disease (CKD), for whom the absolute risk of cardiovascular events is similar to people who have existing coronary artery disease.",
+        "output": "La maladie cardiaque cardiovasculaire (MCV) est la maladie r\u00e9nale la plus fr\u00e9quente des d\u00e9c\u00e8s chez les personnes atteintes d'insuffisance r\u00e9nale pr\u00e9coce (MRC) mais une a une maladie r\u00e9nale inflammatoire chronique (MRC) que les personnes pr\u00e9sentant une maladie r\u00e9nale aigu\u00eb (MRC).",
+        "gold": "Les statines ont de potentiels effets nocifs sur la fonction h\u00e9patique et musculaire ainsi que sur certains cancers.",
+        "prefix": ""
+    },
+    {
+        "input": "Smoking prevalence in Indigenous youth is twice that of the non-Indigenous population, with tobacco experimentation commencing at an early age.",
+        "output": "Les pr\u00e9servatifs au tabac chez les jeunes enfants non issus d'ISRS sont deux fois deux que de la population non indig\u00e8ne.",
+        "gold": "Les jeunes restent particuli\u00e8rement expos\u00e9s au risque de commencer \u00e0 fumer.",
+        "prefix": ""
+    },
+    {
+        "input": "In two studies where tretinoin was compared to placebo, participants rated their melasma as significantly improved in one (RR 13, 95% CI 1.88 to 89.74) but not the other.",
+        "output": "Dans deux \u00e9tudes comparant le tretinoin par rapport au placebo, ils ont rapport\u00e9 toute comparaison de l'utilisation de l'ent\u00e9rosol ou le tretinoine par rapport au placebo.",
+        "gold": "La tr\u00e9tino\u00efne \u00e9tait plus efficace en termes d'\u00e9claircissement du m\u00e9lasma que le placebo, tout comme le complexe blanchissant Thiospot.",
+        "prefix": ""
+    },
+    {
+        "input": "High-quality randomised controlled trials on well-defined participants with long-term outcomes to determine the duration of response are needed.",
+        "output": "Des essais contr\u00f4l\u00e9s randomis\u00e9s de haute qualit\u00e9 de qualit\u00e9 bien planifi\u00e9s pr\u00e9sentant des r\u00e9sultats \u00e0 long terme bien con\u00e7us devraient \u00eatre r\u00e9alis\u00e9s pour le d\u00e9terminer la dur\u00e9e de r\u00e9ponse.",
+        "gold": "\u00c0 titre d'exemple, les \u00e9tudes devraient comporter une p\u00e9riode de suivi de 6 mois au minimum et devraient clairement cat\u00e9goriser les groupes de participants par \u00e2ge, type de m\u00e9lasma et dur\u00e9e de la maladie au d\u00e9but de l'essai, afin que ces diff\u00e9rences puissent \u00eatre prises en compte lors de l'\u00e9valuation des r\u00e9sultats.",
+        "prefix": ""
+    },
+    {
+        "input": "Stress and a sedentary lifestyle are major determinants of cardiovascular disease (CVD).",
+        "output": "Les stress et les crampes d'anxi\u00e9t\u00e9 sont l'un des grandes acteurs de la maladie de la maladie de la maladie de la MCV.",
+        "gold": "Cependant, on pense que le risque de MCV peut \u00eatre r\u00e9duit par un certain nombre de changement de comportements, y compris l'augmentation de l'activit\u00e9 physique et la relaxation pour r\u00e9duire le stress et les deux sont inclues dans le tai-chi.",
+        "prefix": ""
+    },
+    {
+        "input": "In both studies by other objective measures tretinoin treatment significantly reduced the severity of melasma.",
+        "output": "Dix-sept \u00e9tudes pr\u00e9sentaient un type de traitement r\u00e9duit la gravit\u00e9 du m\u00e9lanome de la tumeur par rapport \u00e0 l'absence de traitement.",
+        "gold": "La cr\u00e8me associant 3 produits \u00e9tait significativement plus efficace pour l\u2019'\u00e9claircissement du m\u00e9lasma, comparativement \u00e0 l'hydroquinone seule ou des cr\u00e8mes associant deux produits comme la tr\u00e9tino\u00efne et l'hydroquinone, la tr\u00e9tino\u00efne et l'ac\u00e9tonide de fluocinolone ou encore l'hydroquinone et l'ac\u00e9tonide de fluocinolone.",
+        "prefix": ""
+    },
+    {
+        "input": "There was no significant difference between RIC and non-RIC for improving the psychological impairment (SMD -0.37 points, 95% CI -1.15 to 0.41; 1 trial, 26 participants, very low quality evidence) and the cognitive impairment (SMD -0.26 points; 95% CI -0.72 to 0.21; 3 trials, 79 participants, low-quality evidence) in people with acute ischaemic stroke and cerebral small vessel disease.",
+        "output": "Cependant, il n'y avait aucune diff\u00e9rence entre les CI et la non-RIC dans l'am\u00e9lioration des taux d'erreurs (un ou plusieurs) que l'un des essais.",
+        "gold": "Chez les personnes victimes d\u2019un AVC isch\u00e9mique aigu et ayant une maladie chronique des vaisseaux sanguins c\u00e9r\u00e9braux, le CID n'a pas affect\u00e9 les mesures de la fonction nerveuse, de l'humeur ou de la capacit\u00e9 de r\u00e9flexion.",
+        "prefix": ""
+    },
+    {
+        "input": "Such trials should assess the impacts of box model training on surgical skills in both the short and long term, as well as clinical outcomes when the trainee becomes competent to operate on patients.",
+        "output": "Des essais pertinents devraient \u00eatre \u00e9valu\u00e9s et ont \u00e9valu\u00e9 les avantages de l'entra\u00eenement de l'enseignant sur les apprentissages du bras sur les comp\u00e9tences des infirmi\u00e8res dans l'ensemble du cadre d'une formation de la boite sur les comp\u00e9tences des stagiaires avant et \u00e0 long terme sur la performance des infirmi\u00e8res.",
+        "gold": "Les crit\u00e8res de jugement principaux \u00e9tudi\u00e9s dans cette revue \u00e9taient le temps n\u00e9cessaire pour r\u00e9aliser les t\u00e2ches, le r\u00e9sultat des erreurs, le r\u00e9sultat des pr\u00e9cisions et le score composite des performances (score total).",
+        "prefix": ""
+    },
+    {
+        "input": "We included 20 studies with a total of 2125 participants covering 23 different treatments.",
+        "output": "Nous avons inclus 20 \u00e9tudes, dont le total total de 2125 participants avaient re\u00e7u 23 diff\u00e9rents traitements diff\u00e9rents.",
+        "gold": "Nous avons inclus 20 \u00e9tudes, avec un total de 2\u00a0125 participants, couvrant 23 traitements diff\u00e9rents.",
+        "prefix": ""
+    },
+    {
+        "input": "In the larger USA trial, the 12-month cumulative life-table termination rates per 100 women for overall pregnancy were 17.4 for the sponge and 12.8 for the diaphragm.",
+        "output": "Nous avons examin\u00e9 les taux d'expiration cumul\u00e9e par 100 femmes pour l'accouchement au total, mais il y a le plus grand \u00e9pisode de la grossesse.",
+        "gold": "Dans un grand essai men\u00e9 aux \u00c9tats-Unis, l'\u00e9ponge n'a pas aussi bien fonctionn\u00e9 que le diaphragme pour \u00e9viter les grossesses.",
+        "prefix": ""
+    },
+    {
+        "input": "High-quality randomised controlled trials on well-defined participants with long-term outcomes to determine the duration of response are needed.",
+        "output": "Parmi l'ensemble, des essais contr\u00f4l\u00e9s randomis\u00e9s de haute qualit\u00e9, d'au moins des r\u00e9sultats de long terme portant sur des personnes \u00e0 faibles revenus (un essai contr\u00f4l\u00e9 randomis\u00e9) sont n\u00e9cessaires.",
+        "gold": "La cr\u00e8me associant 3 produits \u00e9tait significativement plus efficace pour l\u2019'\u00e9claircissement du m\u00e9lasma, comparativement \u00e0 l'hydroquinone seule ou des cr\u00e8mes associant deux produits comme la tr\u00e9tino\u00efne et l'hydroquinone, la tr\u00e9tino\u00efne et l'ac\u00e9tonide de fluocinolone ou encore l'hydroquinone et l'ac\u00e9tonide de fluocinolone.",
+        "prefix": ""
+    },
+    {
+        "input": "We included all randomised clinical trials comparing box model trainers versus no training in surgical trainees with no prior laparoscopic experience.",
+        "output": "Les auteurs de la revue n'ont pas identifi\u00e9 d'essais contr\u00f4l\u00e9s randomis\u00e9s randomis\u00e9s (ECR), pour l'\u00e9valuation de la m\u00e9thode par rapport \u00e0 l'absence d'entra\u00eenement chez les chercheurs chirurgicaux n'avaient commenc\u00e9 avec aucune exp\u00e9rience laparoscopique pr\u00e9existante.",
+        "gold": "Lorsqu'ils sont men\u00e9s correctement, ils offrent les r\u00e9ponses les plus pr\u00e9cises.",
+        "prefix": ""
+    },
+    {
+        "input": "The contraceptive vaginal sponge was developed as an alternative to the contraceptive diaphragm.",
+        "output": "Les complications avec une sponge vaginale vaginale ont \u00e9t\u00e9 \u00e9valu\u00e9es comme une alternative au diaphragme contraceptive.",
+        "gold": "Le diaphragme est un d\u00f4me \u00e9lastique qui se place dans la fili\u00e8re pelvienne et emp\u00eache les spermatozo\u00efdes d'atteindre l'ut\u00e9rus.",
+        "prefix": ""
+    },
+    {
+        "input": "Adverse events associated with RIC were significantly higher in participants treated with RIC (RR 10.91; 95% CI 2.01 to 59.28; 3 trials, 371 participants, low-quality evidence), but no severe adverse event was attributable to RIC treatment.",
+        "output": "Les effets ind\u00e9sirables associ\u00e9s \u00e0 la IRA pr\u00e9sentaient des taux de r\u00e9duction plus \u00e9lev\u00e9s chez les participants trait\u00e9s par la IRA, mais aucune \u00e9v\u00e9nement ind\u00e9sirable grave n'a \u00e9t\u00e9 attribu\u00e9e au traitement.",
+        "gold": "Les effets ind\u00e9sirables \u00e9taient significativement plus fr\u00e9quents dans le groupe CID, mais n'ont pas \u00e9t\u00e9 signal\u00e9s comme \u00e9tant graves.",
+        "prefix": ""
+    },
+    {
+        "input": "There were no randomised trials comparing either anticoagulants or antiplatelet drugs with control, thus there is no evidence to support their routine use for the treatment of extracranial internal carotid artery dissection.",
+        "output": "Les donn\u00e9es probantes n'ont fourni aucune preuve permettant de recommander l'utilisation de ces m\u00e9dicaments.",
+        "gold": "Nous n'avons trouv\u00e9 que des \u00e9tudes de mauvaise qualit\u00e9 non randomis\u00e9es comparant le traitement par anticoagulants \u00e0 l'aspirine.",
+        "prefix": ""
+    },
+    {
+        "input": "All the 16 trials in this comparison used video trainers.",
+        "output": "L'utilisation des trainers vid\u00e9o ont \u00e9t\u00e9 effectu\u00e9e.",
+        "gold": "Les caract\u00e9ristiques de l'\u00e9tude Les essais comparaient la formation utilisant des mod\u00e8les en boite par rapport \u00e0 l'absence de formation (16 essais; 464 participants) ou par rapport \u00e0 diff\u00e9rents types de formation utilisant des mod\u00e8les en boite (14 essais; 382 participants) (certains essais et participants ont \u00e9t\u00e9 inclus dans les deux comparaisons, car les essais avaient compar\u00e9 diff\u00e9rentes m\u00e9thodes de formation utilisant des boites par rapport \u00e0 l'absence de formation). R\u00e9sultats principaux",
+        "prefix": ""
+    },
+    {
+        "input": "They can be grouped into those including a bleaching agent such as hydroquinone, triple-combination creams (hydroquinone, tretinoin, and fluocinolone acetonide), and combination therapies (hydroquinone cream and glycolic acid peels), as well as less conventional therapies including rucinol, vitamin C iontophoresis, and skin-lightening complexes like Thiospot and Gigawhite.",
+        "output": "Les agents s'agissaient d'agents tels que l'hydroquinone, le tretinoine et les peels de glycolic (c.-\u00e0-d.",
+        "gold": "Parmi les traitements conventionnels contre le m\u00e9lasma, on trouve les cr\u00e8mes solaires, les cr\u00e8mes d\u00e9pigmentantes (comme l'hydroquinone), les cr\u00e8mes contre l'acn\u00e9 (comme l'acide az\u00e9la\u00efque), les r\u00e9tino\u00efdes topiques (comme la tr\u00e9tino\u00efne) et les exfoliants faciaux o\u00f9 une solution acide est utilis\u00e9e pour \u00e9liminer les couches superficielles de la peau (comme les exfoliants \u00e0 base d'acide glycolique).",
+        "prefix": ""
+    },
+    {
+        "input": "High-quality randomised controlled trials on well-defined participants with long-term outcomes to determine the duration of response are needed.",
+        "output": "Des essais de haute qualit\u00e9 et de grande qualit\u00e9 sont n\u00e9cessaires.",
+        "gold": "De plus, les r\u00e9sultats des \u00e9tudes devraient inclure le point de vue des participants de mani\u00e8re standardis\u00e9e, attendu que ces derniers peuvent percevoir le degr\u00e9 d'\u00e9claircissement de la peau diff\u00e9remment des investigateurs.",
+        "prefix": ""
+    },
+    {
+        "input": "The contraceptive vaginal sponge was developed as an alternative to the contraceptive diaphragm.",
+        "output": "Le pansement vaginal est une alternative au diaphragme du contraceptif.",
+        "gold": "Elle est impr\u00e9gn\u00e9e de spermicide.",
+        "prefix": ""
+    },
+    {
+        "input": "Compared with the control group, the box trainer group also had lower error score (3 trials; 69 participants; SMD -0.69; 95% CI -1.21 to -0.17), better accuracy score (3 trials; 73 participants; SMD 0.67; 95% CI 0.18 to 1.17), and better composite performance scores (SMD 0.65; 95% CI 0.42 to 0.88).",
+        "output": "Les personnes qui avaient des erreurs ont \u00e9galement pr\u00e9sent\u00e9 des scores d'incorrectit\u00e9 (5 essais, 69 participants, score de score de l'exactitude (3 essais), des scores d'exactitude (4 essais), des scores d'exactitude (3 essais, 73 participants et des scores de meilleure qualit\u00e9 (4 essais, score de meilleur qualit\u00e9 (3 essais, 71 participants, score de l'exactitude (3 essais, 73 participants et scores de performance de composite (3 essais, SMD - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -0,58 (AI), et scores de la performance dans l'ensemble (10 essais) ou des scores de r\u00e9ussite (SSA -, IC \u00e0 - - - - - - - - - -0,58 % (3 essais ; - - - - - - - - - - - - - - -0,97, - - - - - - - - - - - -1), et r\u00e9sultats en r\u00e9sum\u00e9 (5 essais, - - 0,75 et scores de qualit\u00e9 composite (3 essais, - 72 participants, score de qualit\u00e9 des pre",
+        "gold": "La formation utilisant des mod\u00e8les en boite semble diminuer le temps n\u00e9cessaire \u00e0 r\u00e9aliser une t\u00e2che laparoscopique, am\u00e9liorer l'exactitude, r\u00e9duire les erreurs et am\u00e9liorer la performance globale.",
+        "prefix": ""
+    },
+    {
+        "input": "This updated review includes 50 studies (45,285 participants); of these 38 (37,274 participants) were meta-analysed.",
+        "output": "Nous avons analys\u00e9 50 \u00e9tudes (43 285 participants) ; de cette revue comprenait 50 \u00e9tudes (45 285 participants).",
+        "gold": "Nous avons examin\u00e9 50 \u00e9tudes publi\u00e9es avant juin 2012 concernant le traitement par statines chez plus de 45\u00a0000 personnes atteintes d'IRC qui n'avaient pas besoin d'un traitement de dialyse.",
+        "prefix": ""
+    },
+    {
+        "input": "Risk of bias varied across studies, with some studies lacking details of allocation concealment.",
+        "output": "Cependant, de nombreuses \u00e9tudes n'ont fait \u00e9tat du b\u00e9n\u00e9fice.",
+        "gold": "Nous avons constat\u00e9 des variations dans les risques de biais des \u00e9tudes incluses.",
+        "prefix": ""
+    },
+    {
+        "input": "This Cochrane review aimed to determine whether brief co-incubation of sperm and oocytes improves outcomes compared with the standard overnight insemination protocol for women undergoing IVF.",
+        "output": "Cette revue a examin\u00e9 si la co-incubation br\u00e8ve du sperme et de l'ovocyte des femmes subissant uneFIV am\u00e9liore les r\u00e9sultats par rapport \u00e0 la proc\u00e9dure d'incision uniquement pour les femmes subissant une FIV.",
+        "gold": "Il est possible que le raccourcissement du temps de co-incubation des ovocytes et du sperme puisse am\u00e9liorer les r\u00e9sultats de la FIV en r\u00e9duisant les effets n\u00e9fastes des DRO sur les zygotes et sur la qualit\u00e9 des embryons.",
+        "prefix": ""
+    },
+    {
+        "input": "To assess interventions used in the management of all types of melasma: epidermal, dermal, and mixed.",
+        "output": "Les actions utilis\u00e9es dans le traitement des types de m\u00e9lasmes : \u0153d\u00e8me, dermatique et mixte.",
+        "gold": "Le m\u00e9lasma \u00e9pidermique est le plus superficiel et se caract\u00e9rise par une augmentation de la pigmentation cutan\u00e9e (m\u00e9lanine) dans la couche sup\u00e9rieure de la peau (\u00e9piderme).",
+        "prefix": ""
+    },
+    {
+        "input": "Potential harms from statin therapy were limited by lack of systematic reporting and were uncertain in analyses that had few events: elevated creatine kinase (7 studies, 4514 participants; RR 0.84, 95% CI 0.20 to 3.48), liver function abnormalities (7 studies, RR 0.76, 95% CI 0.39 to 1.50), withdrawal due to adverse events (13 studies, 4219 participants; RR 1.16, 95% CI 0.84 to 1.60), and cancer (2 studies, 5581 participants; RR 1.03, 95% CI 0.82 to 130).",
+        "output": "Les effets secondaires potentiellement ind\u00e9sirables du traitement par statines sont limit\u00e9s par un manque d'\u00e9v\u00e9nements : la cr\u00e9atine kinase, les abnormalit\u00e9s du foie et le cancer, le r\u00e9tr\u00e9cissement des effets secondaires et le d\u00e9c\u00e8s.",
+        "gold": "Les statines ont de potentiels effets nocifs sur la fonction h\u00e9patique et musculaire ainsi que sur certains cancers.",
+        "prefix": ""
+    },
+    {
+        "input": "They can be grouped into those including a bleaching agent such as hydroquinone, triple-combination creams (hydroquinone, tretinoin, and fluocinolone acetonide), and combination therapies (hydroquinone cream and glycolic acid peels), as well as less conventional therapies including rucinol, vitamin C iontophoresis, and skin-lightening complexes like Thiospot and Gigawhite.",
+        "output": "Les autres interventions \u00e0 base d'agents de blanchiment et \u00e0 base de l'hydroquinone sont similaires \u00e0 utiliser dans un type de nettoyage utilisant des agents de blanchiment tels que l'hydroquinone, l'hydroquinone, le tretinoin et l'ac\u00e9to\u00efne, ainsi que le remplacement de la peau, et le certain nombre d'\u00e9v\u00e9nements ind\u00e9sirables \u00e0 l'aide de de l'hydroquinone.",
+        "gold": "Parmi les traitements conventionnels contre le m\u00e9lasma, on trouve les cr\u00e8mes solaires, les cr\u00e8mes d\u00e9pigmentantes (comme l'hydroquinone), les cr\u00e8mes contre l'acn\u00e9 (comme l'acide az\u00e9la\u00efque), les r\u00e9tino\u00efdes topiques (comme la tr\u00e9tino\u00efne) et les exfoliants faciaux o\u00f9 une solution acide est utilis\u00e9e pour \u00e9liminer les couches superficielles de la peau (comme les exfoliants \u00e0 base d'acide glycolique).",
+        "prefix": ""
+    },
+    {
+        "input": "Further well-designed trials of low risk of bias and random errors are necessary.",
+        "output": "Des essais bien con\u00e7us avec un faible risque de biais (b\u00e9n\u00e9fices du risque du biais) et des erreurs de randomisation sont n\u00e9cessaires.",
+        "gold": "D'autres essais bien con\u00e7us avec moins de risque de biais en raison d'un plan d'\u00e9tude inad\u00e9quat ou du hasard sont n\u00e9cessaires.",
+        "prefix": ""
+    }
+]
